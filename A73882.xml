@@ -1,0 +1,749 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian's theorico-practicon: or, His whole duty consisting of knowledge and practice. Expressed in two sermons or discourses at S. Maryes in Oxon. By Robert Dyer, Mr. of Arts, late of Lincolne Colledge and Hart-hall in Oxon, now lecturer at the Devizes in Wiltshire.</title>
+            <author>Dyer, Robert, b. 1602 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73882</idno>
+            <idno type="STC">STC 7393.5</idno>
+            <idno type="STC">ESTC S125218</idno>
+            <idno type="EEBO-CITATION">99900502</idno>
+            <idno type="PROQUEST">99900502</idno>
+            <idno type="VID">173396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173396)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2040:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian's theorico-practicon: or, His whole duty consisting of knowledge and practice. Expressed in two sermons or discourses at S. Maryes in Oxon. By Robert Dyer, Mr. of Arts, late of Lincolne Colledge and Hart-hall in Oxon, now lecturer at the Devizes in Wiltshire.</title>
+                  <author>Dyer, Robert, b. 1602 or 3.</author>
+               </titleStmt>
+               <extent>[10], 111, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G. M[iller]. for Walter Hammond, and are to be sold by Henry Hammond bookseller in Salisbury,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1633.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page is A2.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Duty --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173396:1"/>
+            <pb facs="tcp:173396:1" rendition="simple:additions"/>
+            <pb facs="tcp:173396:2" rendition="simple:additions"/>
+            <pb facs="tcp:173396:2"/>
+            <p>THE CHRISTIAN'S THE ORICO-Practicon: OR, <hi>His whole Duty, conſiſting of Know<g ref="char:EOLhyphen"/>ledge and Practiſe.</hi>
+            </p>
+            <p>Expreſſed in two Sermons or Diſcourſes at S. <hi>Maryes</hi> in <hi>Oxon.</hi>
+            </p>
+            <p>By ROBERT DYER, M<hi rend="sup">r</hi>. of Arts, Late of <hi>Lincolne</hi> Colledge and <hi>Hart-hall</hi> in <hi>Oxon,</hi> now Lecturer at the Devizes in Wiltſhire.</p>
+            <figure>
+               <figDesc>woodcut of angel standing over death near a cross</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G.M.</hi> for <hi>Walter Hammond,</hi> and are to be ſold by <hi>Henry Hammond</hi> Bookeſeller in <hi>Salisbury,</hi> 1633</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173396:3"/>
+            <pb facs="tcp:173396:3"/>
+            <head>TO THE RIGHT WORSHIPFVLL, my much honoured friends, ROBERT DREVV <hi>Eſquire, one of his Majeſties Iuſtices of peace and Quorum, for</hi> the County of Wilts: and to the <hi>right worthy and vertuous,</hi> M<hi rend="sup">rs</hi>. IANE DREVV, <hi>his Wife.</hi>
+            </head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not any affectation of <hi>publicke notice,</hi> or <hi>vaine-glory,</hi> that hath caſt me on the
+<pb facs="tcp:173396:4"/>cenſure of theſe <hi>over-cry<g ref="char:EOLhyphen"/>ticall</hi> times, in the publi<g ref="char:EOLhyphen"/>cation of theſe meane indeavours: No, my record is on high, how conſcious I am of my owne weakeneſſe and defects. But, that I may render ſome reaſon of this my action: Firſt (I confeſſe) the <hi>good-will,</hi> which (according to my bounden duty) I <hi>have to Sion,</hi> the <hi>Church,</hi> wherof I am an unwor<g ref="char:EOLhyphen"/>thy member, moved me hereunto: that if it ſhall pleaſe the all-diſpoſing
+<pb facs="tcp:173396:4"/>LORD <hi>of Heaven and Earth,</hi> to <hi>gather me</hi> ſhort<g ref="char:EOLhyphen"/>ly <hi>to my fathers</hi> (as my crazy body continually mindes mee of my no long continuance here) I may leave behinde me ſome teſtimony of mine <hi>affection</hi> and <hi>ſtudie of do<g ref="char:EOLhyphen"/>ing</hi> what <hi>good</hi> I may to my fellow-members. Next, I profeſſe, that <hi>de<g ref="char:EOLhyphen"/>ſerved reſpect,</hi> and thoſe <hi>manifold ingagements,</hi> wherewith I ſtand ob<g ref="char:EOLhyphen"/>liged to your <hi>Worthy ſelves and all yours, require</hi> ſome <hi>teſtimoniall</hi> of mine
+<pb facs="tcp:173396:5"/>unfained <hi>thankefullneſſe:</hi> which ſhould have been (indeed) more re<g ref="char:EOLhyphen"/>ally manifeſted in ſome preſent of farre greater value: But that I am conſtrained to uſe the <hi>Father's Apologie,</hi>
+               <note place="margin">Nazianz.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. and to ſay with the Poet <hi>(though in another ſenſe) Sunt verba &amp; voces:</hi>
+               <note place="margin">Horat.</note> 
+               <hi>Papers and pray<g ref="char:EOLhyphen"/>ers</hi> are the beſt requitall poore <hi>Ministers</hi> can make to their <hi>beſt deſer<g ref="char:EOLhyphen"/>ving friends,</hi> for their <hi>best</hi> and <hi>greateſt favours.</hi>
+            </p>
+            <p>How much I ſtand
+<pb facs="tcp:173396:5"/>ingaged for your many and more then ordinary courteſies, I could here willingly (though not <hi>ſufficiently</hi> expreſſe; but that I know, <hi>your</hi> noble diſpoſition as free from <hi>vaine-glory,</hi> as I deſire <hi>mine</hi> ſhould be from <hi>flat<g ref="char:EOLhyphen"/>tery: Theſe</hi> (I acknow<g ref="char:EOLhyphen"/>ledge) have inforced mee to hazard the cen<g ref="char:EOLhyphen"/>ſure of <hi>ambition</hi> rather then <hi>ingratitude,</hi> and to ſhew my ſelfe rather a <hi>weake man</hi> in <hi>print,</hi> then altogether <hi>unthankefull.</hi> Bee pleaſed therefore
+<pb facs="tcp:173396:6"/>(worthy Sir, and you Religious Matron) to accept of theſe my worthleſſe labours, (be<g ref="char:EOLhyphen"/>ing a paire of plaine Ser<g ref="char:EOLhyphen"/>mons, delivered ſome few yeares ſince, before a moſt Learned and ju<g ref="char:EOLhyphen"/>dicious Auditory,) in liew of all your well-deſerving courteſies: And withall, to add this one to the former; Vouchſafe to ſhelter this poore <hi>abortive</hi> with your <hi>Patronage;</hi> wherby it may perhaps finde better entertaine<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:173396:6"/>abroad, and the parent leſſe feare the cenſures or ſarcaſmes of whatſoever malevo<g ref="char:EOLhyphen"/>lent <hi>Zoilus.</hi> For <hi>which</hi> (as for <hi>all other</hi> your fa<g ref="char:EOLhyphen"/>vours) I ſhall never ceaſe to pray for the wellfare and felicity, temporall, ſpirituall and eternall, of your moſt worthy <hi>ſelves,</hi> and of all thoſe flouriſhing <hi>bran<g ref="char:EOLhyphen"/>ches</hi> and hopefull <hi>plants</hi> derived from you, nor ſhall I deſire longer to <hi>be,</hi> then to be</p>
+            <closer>
+               <signed>Your Worſhips in all duty, ſervice, and gratitude, moſt obliged: <hi>ROBERT DYER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:173396:7"/>
+            <pb n="1" facs="tcp:173396:7"/>
+            <head>THE CHRISTIAN'S THEORICO-PRACTICON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>IOHN 13.17.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>If yee know theſe things, Happy are yee if yee doe them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Vmility is fitly compared by S.
+<note place="margin">Aug. de verb. Dom.</note> 
+               <hi>Austen,</hi> to an <hi>edi<g ref="char:EOLhyphen"/>fice,</hi> where, the lower the foundation, the
+<pb n="2" facs="tcp:173396:8"/>higher and ſurer may bee the ſtructure: And as fitly may this building type out unto us the myſticall body of CHRIST: where CHRIST IESVS (by the confeſſion of the Apoſtle, 1.
+<note place="margin">1. Cor. 3.11.</note> 
+               <hi>Cor.</hi> 3.11.) is the <hi>Foundation,</hi> and <hi>we</hi> by many joyntures and couplings make up the whole <hi>ſtructure</hi> of his Church: Now how low this foundation was layed, how farre hee humbled himſelfe, and became of no re<g ref="char:EOLhyphen"/>putation, is evident by his <hi>In<g ref="char:EOLhyphen"/>carnation, Birth, Paſsion,</hi> and the whole courſe of his <hi>life.</hi> Among other acts of his humiliation, pleaſe you to caſt your eyes on one in the precedent <hi>verſes</hi> of this <hi>Chapter;</hi> where you ſhall finde him (under whoſe feete, the earth and the inhabitants
+<pb n="3" facs="tcp:173396:8"/>are but as a footſtoole) wa<g ref="char:EOLhyphen"/>ſhing the feete of his Diſciples; not out of any theatricall vaine-glory, or Cuſtomary Ce<g ref="char:EOLhyphen"/>remony, but from a ſincere af<g ref="char:EOLhyphen"/>fection of <hi>lowlineſſe</hi> and <hi>Humili<g ref="char:EOLhyphen"/>ty.</hi> Where in performing ſo meane a ſervice to the moſt ſervile and diſhonorable parts of his owne ſervants, yea and among the reſt of his <hi>Betrayer,</hi> he gave them a rare example of mutuall <hi>Charity, Benevolence,</hi> and <hi>Humility.</hi> Doth <hi>Majeſty</hi> ſo farre ſtoope to <hi>miſery, heaven</hi> to <hi>earth,</hi> GOD <hi>to man,</hi> the LORD to his <hi>Slaves?</hi> whither then ſhall miſerable Man hum<g ref="char:EOLhyphen"/>ble himſelfe? <hi>Duſt, dung, nothing,</hi> are termes ſutable e<g ref="char:EOLhyphen"/>nough to his fraile condition. How vile then is a <hi>proud</hi> man,
+<pb n="4" facs="tcp:173396:9"/>how diſſonant from the tem<g ref="char:EOLhyphen"/>per of his Saviour? <hi>Qui ſedet ſuper Cherubim proditoris pedes lavit, tu homo terra &amp; pulvis ef<g ref="char:EOLhyphen"/>fereris &amp; intumeſcis?</hi> 'tis the meditation of an ancient Fa<g ref="char:EOLhyphen"/>ther on the place:
+<note place="margin">Chryſoſt.</note>
+               <note place="margin">Calv. in loc.</note> And 'tis M<hi rend="sup">r</hi>. <hi>Calvins</hi> cenſure, that hee which ſubmits not himſelfe to the meaneſt of his brethren, de<g ref="char:EOLhyphen"/>nies CHRIST to be his LORD and Maſter.</p>
+            <p>The Diſciple's <hi>Intellects</hi> were now ſufficiently informed a<g ref="char:EOLhyphen"/>bout this vertue of <hi>Humility,</hi> both by their Maſters <hi>example</hi> to verſe 12. and <hi>Precept</hi> in the 5 ſubſequent; there wanted no<g ref="char:EOLhyphen"/>thing now but the reducing of their <hi>knowledge</hi> to <hi>practiſe.</hi> They could not bee ignorant that all morall vertues are ſea<g ref="char:EOLhyphen"/>ted
+<pb n="5" facs="tcp:173396:9"/>in the <hi>Will,</hi> the <hi>practicall</hi> fa<g ref="char:EOLhyphen"/>culty of the ſoule to <hi>know</hi> them therefore and not <hi>doe</hi> them, would be no more beneficiall, then to ſee a treaſure and not poſſeſſe it: their <hi>doing</hi> muſt proceed as farre as their <hi>know<g ref="char:EOLhyphen"/>ledge:</hi> Dwell they may not in Aëry ſpeculations, <hi>their</hi> actions aſwell as <hi>his</hi> muſt be exempla<g ref="char:EOLhyphen"/>rie: their Saviour had ioyn'd his precept and example toge<g ref="char:EOLhyphen"/>ther, and they muſt exactly ob<g ref="char:EOLhyphen"/>ſerve his method, (for imitate him they may in his moralls, though not in his miracles:) They have now their Commiſ<g ref="char:EOLhyphen"/>ſion, up they muſt and be <hi>doing, If yee know theſe things, happie are yee if you doe them.</hi>
+            </p>
+            <p>My Text is the perfect <hi>Idaea</hi> of a Chriſtians life, <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="6" facs="tcp:173396:10"/>his whole duty conſiſting both of <hi>know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>practiſe,</hi> and therefore fitter to be compounded then divided: for ſo you ſee them here conjoyned by our Savi<g ref="char:EOLhyphen"/>our, 'twere impiety to ſever them, <hi>quae Deus conjunxit ne<g ref="char:EOLhyphen"/>mo ſeparet;</hi> let their league re<g ref="char:EOLhyphen"/>maine inviolable, and let hea<g ref="char:EOLhyphen"/>ven and earth be diſſolved, be<g ref="char:EOLhyphen"/>fore their union in a Chriſtian's profeſſion: Howſoever, I ſhall crave pardon to ſalute them ſe<g ref="char:EOLhyphen"/>verally in my diſcourſe, though in my Converſation I may not. The words (you ſee) are an implicit kinde of <hi>Argumentati<g ref="char:EOLhyphen"/>on,</hi> whoſe both <hi>ground</hi> and ſum<g ref="char:EOLhyphen"/>mary <hi>Illation</hi> is this, <hi>They that know and doe are happy.</hi>
+            </p>
+            <p>The parts ranke themſelves
+<pb n="7" facs="tcp:173396:10"/>naturally as the materiall termes; whereof the firſt is <hi>Knowledge,</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if yee know theſe things</hi>] the ſecond, <hi>Practiſe</hi>] <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if yee doe them</hi>] the third, the <hi>iſſue</hi> and <hi>benefit</hi> of both, <hi>Happineſſe,</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>happie are yee</hi>] The firſt is the onely <hi>ornament</hi> of the <hi>understanding, Knowledge</hi>] The ſecond the whole <hi>employment</hi> of the <hi>Will, Practiſe</hi>] The third the conſummate <hi>perfection</hi> of the <hi>whole man, Happineſſe.</hi> Of theſe in their order, and firſt of the firſt, the Ornament of the Vn<g ref="char:EOLhyphen"/>derſtanding, <hi>Knowledge,</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if yee know theſe things.</hi>
+            </p>
+            <p>If I might not ſeeme to tri<g ref="char:EOLhyphen"/>fle before ſo Iudicious an Au<g ref="char:EOLhyphen"/>dience,
+<note place="margin">I. Part.</note> the firſt particle <hi>(if)</hi> ſhould not eſcape mee, which
+<pb n="8" facs="tcp:173396:11"/>is not here <hi>dubitative,</hi> but (as in many other places) ſuppoſi<g ref="char:EOLhyphen"/>tive: For the leſſon taught was eaſie enough, eſpecially to the apprehenſion of an <hi>Apoſtle</hi> or <hi>Diſciple</hi> of CHRIST's, layed downe ſo evidently by the <hi>pre<g ref="char:EOLhyphen"/>cept</hi> and <hi>example</hi> of their <hi>Maſter;</hi> ſo that he could not but con<g ref="char:EOLhyphen"/>ceive them ſufficiently enfor<g ref="char:EOLhyphen"/>med, and conſequently this <hi>[If yee know theſe things]</hi> is the ſame with <hi>[yee know them]:</hi> But I may not inſiſt on words, when the place and my ſcantling calls for reall obſervations.</p>
+            <p>
+               <hi>Knowledge</hi> is the maine dif<g ref="char:EOLhyphen"/>ference betweene living and in<g ref="char:EOLhyphen"/>animate, ſenſible and inſenſible creatures; <hi>diſtinct</hi> and <hi>rationall</hi> the onely diſtinction betweene <hi>man</hi> and <hi>beaſt:</hi> to reject <hi>know<g ref="char:EOLhyphen"/>ledge</hi>
+               <pb n="9" facs="tcp:173396:11"/>then were to abandon hu<g ref="char:EOLhyphen"/>manity, to affect <hi>Ignorance</hi> were to put off <hi>man,</hi> and become ei<g ref="char:EOLhyphen"/>ther a <hi>beaſt</hi> or a dead <hi>Carkas:</hi>
+               <note place="margin">Laërt. in vi<g ref="char:EOLhyphen"/>ta Ariſtot.</note> for ſo the Philoſopher in <hi>Laertius</hi> puts the difference betweene an underſtanding man, and an ignorant, affirming that the one differs from the other as much as a living man from a dead. 'Tis that <hi>Image of GOD,</hi> in which man was created, witnes the Apoſtle, <hi>Col.</hi> 3.10.
+<note place="margin">Col. 3.10.</note> admoni<g ref="char:EOLhyphen"/>ſhing us to <hi>put on the new man which is renewed in knowledge, af<g ref="char:EOLhyphen"/>ter the Image of him that created him:</hi> Would wee recover this decayed Image? <hi>Knowledge</hi> is the meanes; Would we fructi<g ref="char:EOLhyphen"/>fie in grace? the ſeed and roote muſt be ſowen and grounded in <hi>knowledge.</hi> That this <hi>know<g ref="char:EOLhyphen"/>ledge</hi>
+               <pb n="10" facs="tcp:173396:12"/>is the firſt part and act of faith is denyed by one, but ſuch as keepe their <hi>proſelytes</hi> in per<g ref="char:EOLhyphen"/>petuall <hi>Ignorance:</hi> though their owne <hi>Peter Lombard</hi> (as they challenge him) long ſince averr'd the contrary:
+<note place="margin">
+                  <hi>Lomb. lib.</hi> 3. <hi>Sentent. diſt.</hi> 24.</note> 
+               <hi>lib.</hi> 3. <hi>diſt.</hi> 24. where hee excludes not <hi>knowledge</hi> from the moſt diffi<g ref="char:EOLhyphen"/>cult point of faith, the doctrine of the Deity: <hi>Nemo poteſt cre<g ref="char:EOLhyphen"/>dere in Deum</hi> (ſaith he) <hi>niſi ali<g ref="char:EOLhyphen"/>quid intelligatur.</hi> No man can beleive in GOD, unleſſe the knowledge of him be in ſome meaſure obtained. And the <hi>Angelicall doctor</hi> in his <hi>ma.</hi> 1.2.76. <hi>Quaeſt.</hi> 2. <hi>Art.</hi> diſtinguiſhing of <hi>in vincible and vincible igno<g ref="char:EOLhyphen"/>rance,</hi> acknowledgeth the latter to be a <hi>ſinne,</hi> if it bee in thoſe things which we ought and are
+<pb n="11" facs="tcp:173396:12"/>bound to know: and what thoſe are in his opinion, pleaſe you heare him ſpeake for him<g ref="char:EOLhyphen"/>ſelfe: <hi>Illa ſcilicet ſine quorum ſcientiâ non potest quiſpiam debi<g ref="char:EOLhyphen"/>tumactum rectè exercere: vnde omnes tenentur communiter ſcire ea quae ſunt fidei, &amp; vniverſalia juris praecepta.</hi> Thus farre are the <hi>Schoolemen</hi> (whom they challenge as their owne) the Patrons of <hi>knowledge,</hi> ſo that even in their judgement wee cannot bee faithfull practitio<g ref="char:EOLhyphen"/>ners in the <hi>Church</hi> of CHRIST, unleſſe wee bee firſt competent <hi>Gnoſticks</hi> in his <hi>Shoole.</hi>
+            </p>
+            <p>The antient <hi>Fathers</hi> and our <hi>Orthodox Neotericks</hi> have been more plentifull abettors here<g ref="char:EOLhyphen"/>of: that I may not darken ſo cleare a matter with a Cloud
+<pb n="12" facs="tcp:173396:13"/>of Witneſſes, Saint <hi>Chryſoſtome</hi> and <hi>Auguſt.</hi>
+               <note place="margin">
+                  <hi>Chryſoſt. Hom.</hi> 20. <hi>in Rom.</hi>
+               </note> ſhall ſerve for all; the <hi>former</hi> of whom, <hi>Hom.</hi> 26. <hi>in Rom.</hi> affirmes that our <hi>Igno<g ref="char:EOLhyphen"/>rance</hi> is not a ſufficient <hi>Apologie</hi> for our errours: <hi>erit enim quan<g ref="char:EOLhyphen"/>do &amp; ignorantiae poenas dabimus, quando ſcilicet ipſa ignorantia ve<g ref="char:EOLhyphen"/>niam non habebit; The time ſhall come when wee ſhall ſuffer for our Ignorance; when Ignorance ſhall not patronize it ſelfe, much leſſe any other obliquityes.</hi>
+               <note place="margin">
+                  <hi>S<hi rend="sup">r</hi>. Auguſt. de Gratiâ &amp; Lib. Arbitr. Cap.</hi> 2.</note> The <hi>later,</hi> in the 2 Chapter, <hi>lib. de grat. &amp; lib. Arbitr.</hi> is very plenary and punctuall, pleaſe you to heare him ſomewhere a little Epito<g ref="char:EOLhyphen"/>mized. <hi>Sed nec ipſi ſine poenâ erunt, qui legem Deineſciunt, &amp;c. Neither ſhall they bee without pu<g ref="char:EOLhyphen"/>niſhment which know not the Law of GOD: for as the Apostle,
+<pb n="13" facs="tcp:173396:13"/>they that have ſinned with<g ref="char:EOLhyphen"/>out the Law, ſhall periſh without the Law, but they that have ſinned by the Law, by the Law ſhall bee judged:</hi> and a little after: <hi>Gra<g ref="char:EOLhyphen"/>viùs peccat homo ſciens quàm neſciens, nec tamenideo confugien<g ref="char:EOLhyphen"/>dum eſt ad ignor antiaetenebras, ut in ijs quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> requirat excuſatio<g ref="char:EOLhyphen"/>nem: Aliud enim eſt neſciſſe, aliud ſcire noluiſſe, &amp;c.</hi> True it is that he offends more hainouſly, that ſins through <hi>knowledge,</hi> then he that <hi>ſlips</hi> through <hi>Ignorance:</hi> but we may not therefore flie to <hi>Ignorance</hi> for an excuſe: for 'tis one thing to be <hi>neſcient,</hi> ano<g ref="char:EOLhyphen"/>ther to be <hi>wilfully Ignorant;</hi> this proceeding from the perverſe<g ref="char:EOLhyphen"/>neſſe of the <hi>Will,</hi> that from the defect of the <hi>faculty</hi> or <hi>meanes</hi> of <hi>knowledge.</hi> the <hi>perverſe will</hi>
+               <pb n="14" facs="tcp:173396:14"/>indeed is moſt to bee reproo<g ref="char:EOLhyphen"/>ved, but yet is not <hi>ſimple Neſci<g ref="char:EOLhyphen"/>ence</hi> excuſed from the guilt of eternall puniſhment: Thus for Saint <hi>Auguſt.</hi> Neither is the in<g ref="char:EOLhyphen"/>fallible <hi>Touchſtone</hi> of all ſuch differences, leſſe copious in the confirmation hereof. We are expreſſely commanded to <hi>in<g ref="char:EOLhyphen"/>creaſe in knowledge,</hi>
+               <note place="margin">Col. 1.10.</note> 
+               <hi>Col.</hi> 1.10. And to that intent, the <hi>Law</hi> (the on<g ref="char:EOLhyphen"/>ly <hi>meanes</hi> of <hi>knowledge</hi> in it's time) was often propoſed by GOD himſelfe, to the diligent ſearch and meditation of his people the <hi>Iſraelites.</hi> Witneſſe, <hi>Deut.</hi>
+               <note place="margin">Deut. 6.6, 7, &amp;c.</note> 6.6, 7, 8. &amp; 9. verſes. <hi>Theſe words ſhall bee in thine heart, and thou ſhalt rehearſe them continual<g ref="char:EOLhyphen"/>ly unto thy Children, and ſhalt talke of them when thou taryest in thine houſe,</hi>
+               <note place="margin">Ioſh 1.8.</note> 
+               <hi>&amp;c.</hi> and againe, <hi>Ioſ.</hi> 1.8.
+<pb n="15" facs="tcp:173396:14"/>
+               <hi>This booke of the Law ſhall not de<g ref="char:EOLhyphen"/>part out of thy mouth, but thou ſhalt meditate therein day and night. David</hi> petitions GOD for <hi>knowledge, Pſal.</hi> 143.9. <hi>Cauſe mee to know the way wherein I ſhould walke, for I lift up my ſoule unto thee:</hi> And gives it in eſpeci<g ref="char:EOLhyphen"/>all charge to his Son <hi>Salomon,</hi> to <hi>know</hi> the LORD, 1. <hi>Chr.</hi> 28.9. <hi>And thou Salomon my ſonne, know thou the GOD of thy father, and ſerve him with a perfect heart, &amp;c.</hi> Which the Wiſe King did no way neglect, but left ſufficient teſtimonie of his abundant knowledge, both by his unpa<g ref="char:EOLhyphen"/>ralleld <hi>example</hi> in it, his large <hi>Encomiums</hi> of it, and manifold <hi>precepts</hi> to his ſonne (and with him to all the ſons and children of GOD) to ſearch and labour
+<pb n="16" facs="tcp:173396:15"/>diligently for it: you cannot miſte of them in his Proverbes; as in <hi>Proverbs</hi> the 2.2, 3, 4, and following verſes: <hi>See that thou incline thine eare to wiſedome, and apply thine heart to underſtanding, &amp;c. Wiſe men lay up knowledge, pro.</hi> 10.14. <hi>A prudent man dealeth with knowledge, Pro</hi> 13.16. <hi>The heart of the prudent getteth know<g ref="char:EOLhyphen"/>ledge, and the eare of the wiſe ſee<g ref="char:EOLhyphen"/>keth knowledge, Pro.</hi> 18.15. <hi>The lips of knowledge are a precious Iewell, Pro.</hi> 20.15. And in the 11. Chapter verſe 9. <hi>Through knowledge ſhall the just bee delive<g ref="char:EOLhyphen"/>red:</hi> As if knowledge were the onely meanes of deliverance from affliction and judgement.</p>
+            <p>I might bee over-copious, but I haſten. Our bleſſed Sa<g ref="char:EOLhyphen"/>viour himſelfe affirmes that
+<pb n="17" facs="tcp:173396:15"/>eternall life conſiſts in this en<g ref="char:EOLhyphen"/>dowment of <hi>knowledge, Ioh.</hi> 17.3. <hi>This is life eternall that they might know thee, the only true GOD, &amp; IESVS CHRIST whom thou haſt ſent:</hi> and the Prophet <hi>Iſaiah</hi> in that ſublime teſtimony of <hi>God</hi> the <hi>Father</hi> concerning his <hi>Son,</hi> makes it equivalent to, &amp; of the ſame nature with true &amp; ſaving faith, <hi>Iſa.</hi> 53.11. <hi>By his knowledge ſhall my righteous ſervant juſtifie many.</hi> See heere, that happy worke of our Iuſtification attri<g ref="char:EOLhyphen"/>buted to <hi>knowledge,</hi> which the Prophet <hi>Habakuk</hi> (Chap. 2. v. 4) and the <hi>grand Apoſtle</hi> of the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> (in more then a full Iury of teſtimonies) aſſignes onely un<g ref="char:EOLhyphen"/>to ſaving faith.
+<note place="margin">
+                  <hi>Vid.</hi> Rom. 1.17. Cap. 3.28. Cap. 4.5.13. Cap 5.1. Gal. 3.11. &amp; 5.6.</note> You have the LORD himſelfe often com<g ref="char:EOLhyphen"/>plaining of the <hi>defect</hi> of this
+<pb n="18" facs="tcp:173396:16"/>Habit of <hi>knowledge</hi> in his peo<g ref="char:EOLhyphen"/>ple;
+<note place="margin">2. Cor. 1.24. Epheſ. 2.8. Heb. 10.38. and many o<g ref="char:EOLhyphen"/>ther places.</note> 
+               <hi>Iſai.</hi> 1.3. <hi>Iſrael</hi> (ſaith he) <hi>doth not know, my people doth not conſider:</hi> and then followes that ſevere commination of the Almighty, <hi>Ah ſinfull Nation, a people laden with iniquitie, a ſeed of evill doers, &amp;c.</hi> Intimating, that all their impieties procee<g ref="char:EOLhyphen"/>ded from the want of <hi>knowledge</hi> of their ſpirituall eſtate, and conſideration of their wayes. And in the 5. of <hi>Iſai. verſe</hi> 1. <hi>therefore my people are gone into captivity, becauſe they have no knowledge.</hi> So likewiſe, by the Prophet <hi>Ieremy,</hi> Chapter 4. ver. 22. <hi>My people is fooliſh, they have not knowne mee, they are fooliſh children, they have no underſtan<g ref="char:EOLhyphen"/>ding, &amp;c.</hi> and by the Prophet <hi>Hoſea,</hi> Chapter 4. verſ. 6. <hi>My
+<pb n="19" facs="tcp:173396:16"/>people are deſtroyed for lacke of knowledge; becauſe thou hast re<g ref="char:EOLhyphen"/>jected knowledge, I will alſo reject thee, &amp;c.</hi> as if all the afflictions and judgements of the <hi>Iewes,</hi> their <hi>Captivity, rejection</hi> and ut<g ref="char:EOLhyphen"/>ter <hi>deſolation,</hi> had proceeded onely from this defect of ſpiri<g ref="char:EOLhyphen"/>tuall <hi>knowledge.</hi> But what need I light a Candle to the Sun? The Scripture condeſcending to the Capacity of the meaneſt, doth almoſt every where im<g ref="char:EOLhyphen"/>plicitly compare the <hi>underſtan<g ref="char:EOLhyphen"/>ding</hi> to the <hi>Eye,</hi> the <hi>Will</hi> and <hi>affe<g ref="char:EOLhyphen"/>ctions</hi> to the <hi>feete; that</hi> directing, <hi>theſe</hi> walking; <hi>that</hi> conferring the Inſight of good, <hi>theſe</hi> the proſecution. Now, how vaine it were for a <hi>blinde</hi> man to un<g ref="char:EOLhyphen"/>dertake a journey; how many dangers he muſt needs ſuſtaine
+<pb n="20" facs="tcp:173396:17"/>by the way, yet never attaine his journeys end, none can bee ignorant. Pray we therefore with <hi>David,</hi> that the LORD <hi>would enlighten our eyes, that wee may ſee the wonderfull things of his Law:</hi> that hee would make us to <hi>underſtand the way of his pre<g ref="char:EOLhyphen"/>cepts,</hi> and then we may add, we wil <hi>run the way of his commande<g ref="char:EOLhyphen"/>ments:</hi> for if we runne without this light of <hi>knowledge</hi> we can<g ref="char:EOLhyphen"/>not but fall into the ditch of Errors, if not into the pit of perdition. <hi>Ignoti nulla cupido,</hi> was the Theſis of the <hi>Poet,</hi> and 'tis true in <hi>Divinity:</hi> No man can affect the <hi>good</hi> he <hi>knowes not,</hi> nor feare the <hi>evill</hi> whereof he is <hi>ignorant.</hi>
+               <note place="margin">
+                  <hi>Ariſt.</hi> 3. <hi>Ethic.</hi>
+               </note> The <hi>Philoſopher</hi> in the third of his <hi>Ethicks</hi> aſ<g ref="char:EOLhyphen"/>ſures us that <hi>that</hi> can be no ver<g ref="char:EOLhyphen"/>tuous
+<pb n="21" facs="tcp:173396:17"/>action, which is not done, <hi>Volenter, ſcienter &amp; con<g ref="char:EOLhyphen"/>ſtanter:</hi> ſo that if it be caſually performed, and not out of the ground of praeelection and <hi>knowledge,</hi> the <hi>action</hi> perhaps may be good for the ſubſtance, but the agent no more conſci<g ref="char:EOLhyphen"/>ous to the goodneſſe thereof, then <hi>Baalams</hi> Aſſe of what ſhee ſpake to her Maſter, or <hi>Pilate</hi> of the ſalvation of mankind by delivering our Saviour to bee crucified. In a word, <hi>Scientia conſcientiam dirigit, conſcientia ſcientiam perficit:</hi> Our <hi>knowledge</hi> muſt bee the directory of our <hi>conſcience</hi> in it's practiſe, and our practiſe the perfection of our <hi>knowledge.</hi> We muſt <hi>know</hi> to <hi>doe,</hi> before we can <hi>doe</hi> what wee <hi>know.</hi>
+            </p>
+            <pb n="22" facs="tcp:173396:18"/>
+            <p>Bluſh then ye grand Impo<g ref="char:EOLhyphen"/>ſters, ſtartle yee mercileſſe ſe<g ref="char:EOLhyphen"/>ducers, who are not aſhamed to take away the <hi>Key</hi> of <hi>know<g ref="char:EOLhyphen"/>ledge</hi> from your ſilly flocke, to plucke out the <hi>eyes</hi> of your <hi>Proſelytes,</hi> and withdraw the <hi>light</hi> of the Goſpell from them, and then ſend them that long and difficult journey to heaven. How can the chooſe but erre, who are thus extruded into more then <hi>Aegyptian</hi> darkneſſe? and like the <hi>Sodomites, Gen.</hi> 19. who were ſtricken with ſuch blindneſſe, that they could not finde out <hi>Lots</hi> dore, ſo are theſe ſilly ones ſo blinde in <hi>Ignorance,</hi> that they cannot finde the gate of the heavenly pallace, or new <hi>Hieruſalem.</hi>
+            </p>
+            <p>
+               <hi>Ignorance</hi> with them is the
+<pb n="23" facs="tcp:173396:18"/>mother of devotion, but Saint <hi>Auguſtine</hi> ſtickes not to call her, <hi>peſsimam matrem,</hi> a very bad mother, and that of two as bad daughters:
+<note place="margin">August.</note> 
+               <hi>Peſsimae matris Ig<g ref="char:EOLhyphen"/>norantiae peſsimae itidem ſunt duae filiae, falſitas ſcilicet, &amp; dubitatio;</hi> falſehood and doubting are the beſt of-ſpring that ſhe procre<g ref="char:EOLhyphen"/>ates. <hi>Scripture</hi> (the onely meanes of <hi>ſaving knowledge</hi>) with them is <hi>Inky divinity, ob<g ref="char:EOLhyphen"/>ſcure,</hi> a <hi>Noſe of wax,</hi>
+               <note place="margin">
+                  <hi>Albert. Pighius lib.</hi> 1 <hi>Eccleſ. Hie<g ref="char:EOLhyphen"/>rar.</hi>
+               </note> a <hi>ſhipmans hoſe,</hi> the cauſe of many <hi>ſchiſmes, errors</hi> and <hi>hereſies;</hi> and there<g ref="char:EOLhyphen"/>fore the knowledge or peruſall thereof forbidden the people: This perhaps it may be to <hi>them that periſh,</hi> but to <hi>us</hi> 'tis the <hi>ſa<g ref="char:EOLhyphen"/>vour of life,</hi> and <hi>power of GOD unto ſalvation.</hi> But ô the blaſ<g ref="char:EOLhyphen"/>phemy of theſe miſcreants!
+<pb n="24" facs="tcp:173396:19"/>good GOD, that any wretch ſhould bee ſo audacious, thus to revile that word of his Ma<g ref="char:EOLhyphen"/>ker, by which at the laſt day he ſhall bee judged, to make his GOD a <hi>Lyer</hi> and that <hi>word</hi> of his the cauſe of <hi>ſchiſmes errors and hereſies</hi> which as the <hi>Sunne</hi> in the midſt of his glory diſpells the <hi>mists</hi> of all <hi>errors!</hi> And here, I might obſerve a pretty but lamentable contradiction of theirs. The <hi>Scripture</hi> (ſay they) containes not all things neceſſary to ſalvation, unleſſe they add <hi>traditions;</hi> and yet an <hi>Implicit faith</hi> ſhall ſerve turne for the multitude, without the knowledge of either: what's this but flatly to deny them the meanes of ſalvation, and to be more mercileſſe to their owne
+<pb n="25" facs="tcp:173396:19"/>people then the Divell him<g ref="char:EOLhyphen"/>ſelfe? for he but allures, they by a conſequence compell them to their deſtruction. Great cauſe have wee (beloved) to praiſe the mercies of our graci<g ref="char:EOLhyphen"/>ous GOD, who hath freed us from their tyrannicall Injuncti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Saint <hi>Peter</hi> would have us bee ready to <hi>render a reaſon of our faith,</hi>
+               <note place="margin">1. Pet. 3.15.</note> and <hi>of the hope that is in us,</hi> but (maugre their prime ſuppoſed founder) this is no more regarded by them, then the peruſall of the Scripture: an <hi>Implicit</hi> or infolded <hi>faith</hi> will content them, if they beleeve with the <hi>Church,</hi> though they know neither what the Church nor themſelves beleeve, they imagine they are in the right
+<pb n="26" facs="tcp:173396:20"/>way to <hi>Canaan,</hi> when they are led blindfold to <hi>Aegypt.</hi>
+            </p>
+            <p>I deny not but that there are in the Church many <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Babes</hi> in CHRIST, and Children in faith and knowledge: I con<g ref="char:EOLhyphen"/>feſſe that an <hi>implicit faith</hi> may be in ſome caſes tolerated, ſo it be not impoſed by a peremp<g ref="char:EOLhyphen"/>tory determination of the Church, but grounded on the generall truth of Scripture, when we want either <hi>faculty</hi> or <hi>meanes</hi> for the attaining of that knowledge which affords us a diſtinct explication of the par<g ref="char:EOLhyphen"/>ticulars. But yet were this di<g ref="char:EOLhyphen"/>ſtinct knowledge farre more comfortable and beneficiall to a <hi>Chriſtian,</hi> and would make his faith both more <hi>apparent</hi> and <hi>reall:</hi>
+               <note place="margin">Simil.</note> Fire may be in the
+<pb n="27" facs="tcp:173396:20"/>flint, yet is it both indiſcernible and improper till it be ſtricken out with a ſteele. <hi>Aromaticall odors,</hi> while kept cloſe together, have little or no ſmell at all, but pounded or beaten, fill a whole roome with the fragrance. Coſtly <hi>Merchandize</hi> wrapt up in a bundle affects not the buyer, but unfolded, invites him to the procurement. I need not make the Illation, the ſlendreſt In<g ref="char:EOLhyphen"/>tellect may ſupply thus much for an <hi>Antapodoſis,</hi> that the groſſe knowledge of this Im<g ref="char:EOLhyphen"/>plicit faith, is very imperfect, and hardly ſufficient to impoſe the name of <hi>faith</hi> upon it, un<g ref="char:EOLhyphen"/>leſſe it bee unfolded by a more evident view of it's particular objects.</p>
+            <p>Let their groſſe Ignorance
+<pb n="28" facs="tcp:173396:21"/>then (who affect it) reſide within their owne territories, never approach it our Sion; let their confuſed knowledge, bee their owne confuſion; but let us indeavour to cheriſh and perpetuate that light, which is ſo happily ſprung up, and hath beene ſo long maintained a<g ref="char:EOLhyphen"/>mong us; And happy may we eſteeme our ſelves in the fruiti<g ref="char:EOLhyphen"/>on of ſo ineſtimable a benefit: for ſo our Saviour would have his Apoſtles account it, <hi>Matth.</hi> 13. <hi>verſe</hi> 11. when he tells them, <hi>to you it is given to know the my<g ref="char:EOLhyphen"/>ſteries of the kingdome of heaven:</hi>
+               <note place="margin">Mat. 13.11.</note> thus inviting them to gratitude by a commemoration of their gracious endowments; And as ſevere a judgement was it for the unbeleeving <hi>Iewes</hi> to bee
+<pb n="29" facs="tcp:173396:21"/>blinded with Ignorance,
+<note place="margin">Iſay 6.9, 10.</note> 
+               <hi>that ſeeing they might ſee and not per<g ref="char:EOLhyphen"/>ceive, and hearing they might heare, and not understand, Matth.</hi>
+               <note place="margin">Mat. 13.13.</note> 13.
+<note place="margin">Aeſchylus in Prometh.</note> conſonant to that of <hi>Pro<g ref="char:EOLhyphen"/>metheus</hi> in the <hi>Tragedy:</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. So ignorant were they, as if the faculty of their underſtanding and knowledge had loſt their uſe and function, and were now become rather <hi>privations</hi> then <hi>habits.</hi> 'Twas the greateſt benefit of <hi>Chriſts propheticall Office,</hi> to <hi>give know<g ref="char:EOLhyphen"/>ledge of ſalvation to his people for the remiſsion of their ſinnes, Luk.</hi> 1.77. ſhame be it for us to reject this <hi>knowledge,</hi> and fruſtrate the comming of our Saviour. In<g ref="char:EOLhyphen"/>creaſe wee then daily in <hi>know<g ref="char:EOLhyphen"/>ledge,</hi> and ſith we have a triple
+<pb n="30" facs="tcp:173396:22"/>portion of his grace offered us, let a <hi>triple portion of his ſpirit bee multiplied in us.</hi> 'Tis reported of the Inhabitants of <hi>China,</hi> that they were wont to boaſt, that <hi>they</hi> ſaw with <hi>two</hi> eyes, and all other nations but with <hi>one,</hi> but we have a third ſuper-added, which they were deſtitute of, (to wit) the eye of <hi>Faith</hi> and <hi>Religion:</hi> For bruit beaſts have the uſe of one, the eye of <hi>ſenſe,</hi> the naturall man of two, the eye of <hi>ſenſe</hi> and <hi>reaſon,</hi> but the Chriſtian of three, the eye of <hi>ſenſe reaſon</hi> and <hi>faith.</hi>
+            </p>
+            <p>And here might I enter into a perplexed controverſie, whe<g ref="char:EOLhyphen"/>ther that eye of <hi>reaſon</hi> in a <hi>na<g ref="char:EOLhyphen"/>turall man</hi> deſtitute of the light of <hi>ſpirituall knowledge</hi> of faith and religion, bee ſufficient to
+<pb n="31" facs="tcp:173396:22"/>direct him the way of eternall happineſſe?
+<note place="margin">
+                  <hi>D<hi rend="sup">r</hi>. Pride<g ref="char:EOLhyphen"/>aux Lect.</hi> 8. <hi>de Salute Ethnicorum.</hi>
+               </note> But that I am ſa<g ref="char:EOLhyphen"/>ved a labour by our Learned Profeſſour, to whom I referre you for ſatisfaction: onely give me leave to add two or three words, from thoſe places of the Fathers before cited, and I ſhall not be tedious; Saint <hi>Auguſtine</hi> without any ſcruple, is bold to affirme,
+<note place="margin">Auguſt. vbi ſupra.</note> that <hi>ſimplex &amp; mera inſcitia, neminem ſic excuſat, ut ſempiterno igne non ardeat, (ſi propterea non credidit, quia non audi vit omnino quod crederet) ſed for taſsis ut mitius ardeat &amp;c.</hi> Sim<g ref="char:EOLhyphen"/>ple Neſcience doth ſo farre ex<g ref="char:EOLhyphen"/>cuſe no man (no not though he never heard that hee might be<g ref="char:EOLhyphen"/>lieve) that he ſhould not burne in eternall fire, but onely per<g ref="char:EOLhyphen"/>haps that his torment there
+<pb n="32" facs="tcp:173396:23"/>may be ſomewhat mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igated: for that of the <hi>Pſalmiſt</hi> was not ſpoken without cauſe,
+<note place="margin">Pſal. 79.6.</note> 
+               <hi>Powre out thine anger upon the Nations that have not knowne thee;</hi> nor that of the Apoſtle,
+<note place="margin">2. Theſ. 1.8.</note> 
+               <hi>When the LORD ſhall bee revealed from heaven in flaming fire, taking vengeance of them that know not GOD.</hi> And Saint <hi>Chryſoſtome</hi> queſtioning whether ſpirituall knowledge be to be required of a ruſtick or Barbarian, makes this anſwer: <hi>Non ſolùm ab Agri<g ref="char:EOLhyphen"/>cola &amp; Barbaro, ſed ſi quis barba<g ref="char:EOLhyphen"/>ris ipſis barbarior:</hi> ſo that if it be not in the Counſell of the Al<g ref="char:EOLhyphen"/>mighty, to ſupply him with ſpi<g ref="char:EOLhyphen"/>rituall <hi>knowledge,</hi> neither is it his pleaſure to bring him to his ſpirituall <hi>Canaan,</hi> the place of eternall reſt. The 18. Article
+<pb n="33" facs="tcp:173396:23"/>of <hi>our Church</hi> (which is not uſuall with her) proceeds a<g ref="char:EOLhyphen"/>gainſt the oppugners of this opinion with an <hi>Anathema,</hi> holding them as <hi>accurſed, who hold that every man ſhall bee ſaved by the Law or ſect which hee profeſſeth, ſo hee frame his life according to that Law, and the light of nature: For holy Scripture ſets out unto us, onely the name of IESVS CHRIST whereby men may bee ſaved.</hi>
+               <note place="margin">Act. 4.12.</note> But I affect bre<g ref="char:EOLhyphen"/>vity: that <hi>knowledge</hi> is the firſt act of faith yee haue heard, and I ſuppoſe none doubt's it, that <hi>without faith 'tis impoſsible to pleaſe GOD;</hi>
+               <note place="margin">Heb. 11.6.</note> that <hi>hee that beleeves not ſhall bee condemned:</hi> that <hi>whatſoever is not of faith is ſinne,</hi>
+               <note place="margin">Rom. 14.23</note> is as queſtion<g ref="char:EOLhyphen"/>leſſe,
+<pb n="34" facs="tcp:173396:24"/>as the authority of the Penmen is infallible. We may as ſoone goe to the <hi>Indyes</hi> with<g ref="char:EOLhyphen"/>out a <hi>viaticum,</hi> as to heaven without ſaving <hi>knowledge</hi> and <hi>faith</hi> in the onely Mediator be<g ref="char:EOLhyphen"/>tweene GOD and man: This is it which ſeaſons all our acti<g ref="char:EOLhyphen"/>ons and makes them pleaſing to the Almighty, <hi>with</hi> it our greateſt ſinnes may be remit<g ref="char:EOLhyphen"/>ted, and <hi>without</hi> it our meaneſt cannot: Nay our beſt actions without this, are turned to ſin, and are but <hi>ſplendida peccata,</hi> ſinnes guilded ouer with the ſhew of vertue; for as excel<g ref="char:EOLhyphen"/>lently that divine Poet,
+<q>
+                  <l>Omne probitatis opus niſi ſe<g ref="char:EOLhyphen"/>mine verae</l>
+                  <l>Exoritur fidei,
+<note place="margin">Proſper.</note> peccatum est, in<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> reatum</l>
+                  <pb n="35" facs="tcp:173396:24"/>
+                  <l>Vertitur, &amp; ſterilis cumulat ſibi gloria poenam.</l>
+               </q>
+            </p>
+            <p>If <hi>ſinne</hi> bee an impediment to ſalvation, <hi>morall honesty</hi> or <hi>civill Iuſtice</hi> (which is nought elſe without <hi>faith</hi>) can no whit further us in the acquiſition of felicity; formally (I ſay) it cannot, though perhaps diſpo<g ref="char:EOLhyphen"/>ſitively it may, for as the gol<g ref="char:EOLhyphen"/>den mouth'd Father affirmes; that when wee endeavour the conſtant practiſe of morall ver<g ref="char:EOLhyphen"/>tue and diligently performe what wee can,
+<note place="margin">Chryſoſt. in Roman.</note> GOD often in mercy ſupplyes what is wan<g ref="char:EOLhyphen"/>ting, and ſo brings us to the knowledge of his truth; as hee did <hi>Cornelius</hi> and the <hi>Eunuch</hi> in the <hi>Acts:</hi> and whether <hi>Plato</hi> and <hi>Seneca</hi> with other Philoſophers may not be examples hereof,
+<pb n="36" facs="tcp:173396:25"/>I will not determine; though there want not authority to uphold it: But I feare, their <hi>Ignorance</hi> in <hi>divine</hi> affaires, eſ<g ref="char:EOLhyphen"/>pecially concerning ſaving <hi>faith,</hi> countervailed both their knowledge &amp; practiſe in <hi>morall;</hi> ſo Ignorant were they in the midſt of all their knowledge.</p>
+            <p>This uſhers in another Cor<g ref="char:EOLhyphen"/>rollary, and leades me the trod<g ref="char:EOLhyphen"/>den path of that common que<g ref="char:EOLhyphen"/>ſtion, <hi>how farre forth Ignorance excuſeth an offence:</hi> which be<g ref="char:EOLhyphen"/>cauſe every ſmattering <hi>Sophi<g ref="char:EOLhyphen"/>ster</hi> can reſolve with two or three <hi>diſtinctions,</hi> and for that I have partly touch't it before, I paſſe it over with this briefe, and vulgar Theſis of the Schooles;
+<note place="margin">Vid <hi>Thom. Aquinat.</hi> 1<hi rend="sup">ma</hi>. 2<hi rend="sup">de</hi>. <hi>Quaeſt.</hi> 76.</note> that if it be, <hi>ſimplex, nativa, vel, invita, juris divini,
+<pb n="37" facs="tcp:173396:25"/>vel humani, ſeu poſitivi,</hi>
+               <note place="margin">Alex. Ha<g ref="char:EOLhyphen"/>lenſ. Biel. Gerſon. &amp;c.</note> it may in ſome meaſure excuſe it, <hi>à tanto</hi> but not <hi>à toto:</hi> but if it be <hi>groſſe</hi> or <hi>affected,</hi> and of thoſe things after which wee are <hi>bound to enquire,</hi> it <hi>augments</hi> more then <hi>diminiſhes</hi> the fault, and <hi>accuſes</hi> rather then <hi>excuſes</hi> the delinquent; making him (with the drunken man in <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi>) lyable to a double pu<g ref="char:EOLhyphen"/>niſhment; Firſt, for his <hi>fault,</hi>
+               <note place="margin">
+                  <hi>Lib.</hi> 3. <hi>Ethic.</hi>
+               </note> and then for his <hi>proud</hi> and <hi>ſcornefull Ignorance,</hi> for ſo may it juſtly be called, it being ra<g ref="char:EOLhyphen"/>ther a <hi>contempt</hi> then a <hi>privation</hi> of <hi>knowledge,</hi>
+               <note place="margin">Greg. in Mo<g ref="char:EOLhyphen"/>ral.</note> for there wanted not <hi>inveniendi facultas, ſi fuiſſet quaerendi voluntas,</hi> as Saint <hi>Gre<g ref="char:EOLhyphen"/>gory.</hi> Now how lamentable their caſe is, who with thoſe deſperate wretches in <hi>Iob,</hi> thus
+<pb n="38" facs="tcp:173396:26"/>reject their GOD and his <hi>know<g ref="char:EOLhyphen"/>ledge</hi> with a <hi>Diſcede à nobis,</hi>
+               <note place="margin">Iob 21.14.</note> 
+               <hi>De<g ref="char:EOLhyphen"/>part from us, for we will not the knowledge of thy wayes,</hi> none (unleſſe thus willfully blinded) can bee ignorant: no doubt this <hi>diſcede</hi> ſhall one day bee requited with another <hi>Diſcedi<g ref="char:EOLhyphen"/>te,</hi>
+               <note place="margin">Mat. 25.41.</note> 
+               <hi>depart from me yee Curſed into everlaſting fire prepared for the Divell and his Angels.</hi>
+            </p>
+            <p>And yet (B.B. <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label>) we cannot but cleerely <hi>ſee,</hi> and compaſ<g ref="char:EOLhyphen"/>ſionately <hi>deplore,</hi> that there are many thouſands in the rurall parts of this kingdome (ſome of them indeed for want of the <hi>meanes,</hi> but moſt for want of <hi>Will</hi> and <hi>affection</hi> to ſpirituall knowledge) that are as <hi>blinde</hi> and ignorant in di<g ref="char:EOLhyphen"/>vine affaires (even in this cleare
+<pb n="39" facs="tcp:173396:26"/>
+               <hi>Sun-ſhine</hi> of the Goſpell) as their groſſely-miſguided fore<g ref="char:EOLhyphen"/>fathers were in the time of their <hi>neceſsitated</hi> ignorance and ſu<g ref="char:EOLhyphen"/>perſtition, impoſed on them by the <hi>tyranny</hi> of the <hi>Romiſh Beaſt.</hi> What doe theſe <hi>Moles</hi> elſe, but ſhut their eyes againſt the divine raies of this glori<g ref="char:EOLhyphen"/>ous <hi>Sunne,</hi> affect <hi>darkeneſſe</hi> more then <hi>light,</hi> and like ſo many <hi>Mucke-wormes,</hi> confine themſelves to their <hi>dung-hill,</hi> ra<g ref="char:EOLhyphen"/>ther then contemplate the Al<g ref="char:EOLhyphen"/>mighty in his <hi>workes</hi> and <hi>word?</hi> They <hi>will not underſtand nor ſeek after GOD,</hi> but ſay (at leaſt in their Hearts) as thoſe obſti<g ref="char:EOLhyphen"/>nate Idolaters, <hi>Ier.</hi> 44.16. <hi>The word that thou haſt ſpoken in the name of the LORD, we will not heare it:</hi> But our Saviour
+<pb n="40" facs="tcp:173396:27"/>hath pronounced their doome, <hi>Iohn</hi> 3.19. <hi>This is the condemna<g ref="char:EOLhyphen"/>tion, that Light is come into the world, and men loved darkeneſſe more than light. The condemna<g ref="char:EOLhyphen"/>tion</hi>] <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as if it were the <hi>greateſt, ſeverest,</hi> and that which makes men moſt <hi>inexcuſable</hi> in the ſight of GOD.</p>
+            <p>But I truſt you have not ſo learned CHRIST, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> your hearts are repleniſht with the fullneſſe of all both divine and humane <hi>knowledge,</hi> yee are not onely the <hi>Iſraell,</hi> but the <hi>Prieſts</hi> of the <hi>living GOD,</hi> and have both the <hi>Intellect</hi> and the <hi>tongue of the Learned,</hi>
+               <note place="margin">Iſa. 50.4.</note> 
+               <hi>know<g ref="char:EOLhyphen"/>ing how to miniſter a word of com<g ref="char:EOLhyphen"/>fort in due ſeaſon to him that is weary.</hi> let me now be bold to
+<pb n="41" facs="tcp:173396:27"/>adviſe you to the <hi>performance:</hi> lay not up the <hi>Talent</hi> of your <hi>knowledge in a Napkin,</hi> but employ it to your owne and others advantage: <hi>Hide not your light under a Buſhell,</hi> nor tread your ſavoury ſalt on the Dunghill; but enlighten the darke corners of the Church with the one, and ſeaſon the unſavoury conſciences of the putrified world with the other: For as they ſhall <hi>ſhine as the ſtarres in the firmament,</hi>
+               <note place="margin">Dan. 12.3.</note> 
+               <hi>who convert many to righteouſneſſe,</hi> ſo ſhall they bee no leſſe ac<g ref="char:EOLhyphen"/>curſed,
+<note place="margin">Ier. 48.10.</note> who <hi>doe the worke of the LORD negligently. Pau<g ref="char:EOLhyphen"/>lum ſepultae distat inertiae Caelata virtus</hi>— Little difference is there betweene a dead man,
+<note place="margin">Horat.</note> and him that hath no energe<g ref="char:EOLhyphen"/>ticall
+<pb n="42" facs="tcp:173396:28"/>actions of life, and as little difference betweene him that buries his knowledge in the cloſet of his owne bo<g ref="char:EOLhyphen"/>ſome, and him that hath <hi>none</hi> at all. Not that I would have eve<g ref="char:EOLhyphen"/>ry <hi>Capritious Novelliſt</hi> adven<g ref="char:EOLhyphen"/>ture to come to <hi>Bethell,</hi> before ever he ſaw <hi>Najoth,</hi> to ruſh in<g ref="char:EOLhyphen"/>to the <hi>Sanctuary,</hi> before ever he ſaluted the <hi>Vniverſity,</hi> to make a <hi>Sermon,</hi> before hee can make a <hi>Syllogiſme,</hi> and reade <hi>Scripture,</hi> perhaps be<g ref="char:EOLhyphen"/>fore he has throughly read his <hi>Grammer:</hi> No, this is as pernitious as it is prepoſte<g ref="char:EOLhyphen"/>rous, and deſervedly cryed downe among us; but that you, who are educated among the <hi>Prophets,</hi> and are for the moſt part <hi>Prophets</hi> your ſelves,
+<pb n="43" facs="tcp:173396:28"/>
+               <hi>vocati ſicut Adron,</hi> indued with a full maturity of <hi>Knowledge</hi> and <hi>Iudgement,</hi> would not ſtifle thoſe gracious <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor envy your Church or Com<g ref="char:EOLhyphen"/>mon-wealth the benefit of thoſe gifts, which your GOD hath ſo freely conferred. <hi>The Priests lips ſhould preſerve know<g ref="char:EOLhyphen"/>ledge,</hi> (ſaith the Prophet) <hi>Mal.</hi> 2.7. where <hi>Peter Martyr's</hi> ob<g ref="char:EOLhyphen"/>ſervation is, that the Prophet ſayes not that the Prieſts <hi>breaſt</hi> or his <hi>heart</hi> ſhould preſerve it, (though that be alſo preſuppo<g ref="char:EOLhyphen"/>ſed) but his <hi>Lippes,</hi> intimating that he ſhould be <hi>ready</hi> to <hi>com<g ref="char:EOLhyphen"/>municate</hi> it to others, as not be<g ref="char:EOLhyphen"/>ing borne ſo much for his pri<g ref="char:EOLhyphen"/>vate good, as the publicke: In a word; yee <hi>know theſe things, happy are yee if yee faith<g ref="char:EOLhyphen"/>fully
+<pb n="44" facs="tcp:173396:29"/>diſpence them.</hi>
+            </p>
+            <p>If this were duly perfor<g ref="char:EOLhyphen"/>med; perhaps ſome of the <hi>curioſity</hi> of our <hi>knowledge</hi> might bee ſpared and yet our ſelves never the leſſe happy. 'Twas the royall cenſure of his late learned Majeſty, that hee thought not the <hi>greateſt Clarkes neareſt heaven,</hi>
+               <note place="margin">
+                  <hi>K.</hi> Iames <hi>in Aphoriſ.</hi>
+               </note> for that <hi>much of their knowledge is ſuperfluous:</hi> hee exemplifies in the great <hi>Cardinall,</hi> who makes 400. Que<g ref="char:EOLhyphen"/>ſtions of Faith, and ſcarce ten of them which concerne our ſalvation to underſtand. Saint <hi>Chryſoſtome</hi> indeed wills us to aſcend to heaven in our con<g ref="char:EOLhyphen"/>templation,
+<note place="margin">
+                  <hi>Chriſt. Hom.</hi> 4. <hi>de Natu<g ref="char:EOLhyphen"/>ra Dei.</hi>
+               </note> but <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with<g ref="char:EOLhyphen"/>out phantaſticall curioſitie; but that by the meditation
+<pb n="45" facs="tcp:173396:29"/>thereof we may better both our ſelves and others in hope of the fruition.</p>
+            <p>You know how many of the <hi>Bethſhemites</hi> were ſlaine,
+<note place="margin">1. Sam. 6.</note> for prying too <hi>boldly</hi> into the <hi>Arke:</hi> how dares then pre<g ref="char:EOLhyphen"/>ſumptuous <hi>duſt and aſhes</hi> ſearch ſo curiouſly into the ſecrets of the Almighty, and neglecting the knowledge of more neceſſa<g ref="char:EOLhyphen"/>ry duties, examine the Coun<g ref="char:EOLhyphen"/>ſells of the LORD of hoſts; as if hee meant to expoſtulate with his <hi>Maker,</hi> and extract a <hi>reaſon</hi> of his actions? Mi<g ref="char:EOLhyphen"/>ſtake me not, Beloved: I am not ignorant of the diverſity of perſons and callings, nei<g ref="char:EOLhyphen"/>ther dare I debarre thoſe who are indued with more eminent gifts, whether by nature, In<g ref="char:EOLhyphen"/>duſtry
+<pb n="46" facs="tcp:173396:30"/>or divine bounty, to ſound the depth of thoſe my<g ref="char:EOLhyphen"/>ſteries which are contained in the large <hi>ſea</hi> of his <hi>revealed Will:</hi> but for vulgar capacities to proceede ſo farre as the bound<g ref="char:EOLhyphen"/>leſſe <hi>Ocean</hi> of his <hi>ſecrets,</hi> were to attempt an enterpriſe (like the fabulous <hi>Gyants</hi> which aſ<g ref="char:EOLhyphen"/>ſaulted heaven) infinitely be<g ref="char:EOLhyphen"/>yond the <hi>ſphere</hi> of their <hi>Capaci<g ref="char:EOLhyphen"/>ty,</hi> and would prove as <hi>dange<g ref="char:EOLhyphen"/>rous</hi> as it is <hi>preſumptuous:</hi> doe not theſe men <hi>puzzle</hi> their underſtanding in ſteed of <hi>en<g ref="char:EOLhyphen"/>forming it;</hi> and preſuming to to bee <hi>wiſe beyond ſobriety,</hi> ve<g ref="char:EOLhyphen"/>rifie that of the Comedian, <hi>Ne<g ref="char:EOLhyphen"/>nimium intelligendo faciunt vt ni<g ref="char:EOLhyphen"/>hil intelligant;</hi>
+               <note place="margin">Terent.</note> which wee may Engliſh in the Apoſtles phraſe, 1. <hi>Cor.</hi> 8.2. <hi>While they thinke they
+<pb n="47" facs="tcp:173396:30"/>know any thing, they know no<g ref="char:EOLhyphen"/>thing yet as they ought.</hi> 'Twere good for theſe men to take the counſell of that elegant Father, <hi>Hom.</hi> 26. <hi>in Rom.</hi>
+               <note place="margin">Chryſoſtome</note> 
+               <hi>Ne vocemus Deum in judicium, &amp;c.</hi> Let us not call GOD into judgement, nor enquire why hee left this man and call'd another, for this were nothing elſe, then if the ſervant rejected by his own fault, ſhould curiouſly ſift the whole Oeconomy of his Maſter: <hi>Miſer cum te rationum tuarum ſo<g ref="char:EOLhyphen"/>licitum eſſe oportet, à Domino ratio<g ref="char:EOLhyphen"/>nem exigis, tanquam rationem non redditurus:</hi> Miſerable man, when it behooves thee to care for thine owne accounts, and how thou mightſt reconcile thy Maſter to thy ſelfe, thou requir'ſt an account of him, as
+<pb n="48" facs="tcp:173396:31"/>if no account were by thee to be render'd.</p>
+            <p>Aske Philoſophers and they will tell you that, <hi>Vehemens ſen<g ref="char:EOLhyphen"/>ſibile tollit ſenſationem, laedit ſenſo<g ref="char:EOLhyphen"/>rium;</hi> let ſuch curious <hi>Inquiſi<g ref="char:EOLhyphen"/>tors</hi> then beware that this too glorious object dazle not the eyes of their <hi>Intellects,</hi> and <hi>burne</hi> them, while they thinke with the <hi>Fly,</hi> but to <hi>hover</hi> about this <hi>light.</hi>
+            </p>
+            <p>
+               <hi>Gerſon</hi> (though himſelfe a <hi>Schooleman,</hi> and you know how many unneceſſary Queſtions they vſually propoſe) in his ſe<g ref="char:EOLhyphen"/>cond part, <hi>de Naturâ &amp; Quali<g ref="char:EOLhyphen"/>tate Conſcientiae,</hi> very moderate<g ref="char:EOLhyphen"/>ly diſtinguiſheth of a three fold knowledge, the firſt of things <hi>profitable,</hi> the ſecond of things <hi>neceſſary,</hi> and the third of things
+<pb n="49" facs="tcp:173396:31"/>
+               <hi>impertinent</hi> to ſalvation: For the firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> his Inſtance is the <hi>Scripture,</hi> as the <hi>Epiſtles</hi> of Saint <hi>Paul,</hi> the Hiſtory of the <hi>Evan<g ref="char:EOLhyphen"/>geliſts, &amp;c.</hi> wherein though hee fall ſomewhat ſhort of us, and the truth (who conſtitute the <hi>neceſsity</hi> of this knowledge in ſome competent meaſure) yet goes hee beyond his mo<g ref="char:EOLhyphen"/>derne <hi>Succeſſors,</hi> who (as you have heard) make the know<g ref="char:EOLhyphen"/>ledge of Scripture not onely <hi>unneceſſary</hi> for their Laity, but many times <hi>hurtfull</hi> and <hi>pernici<g ref="char:EOLhyphen"/>ous.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Of the ſecond ſort are the <hi>Decalogue,</hi> the <hi>Articles</hi> of our <hi>faith,</hi> the doctrine of the <hi>Sacraments,</hi> without which (if ſufficient age and meanes bee affoorded us) ſalvation is hard<g ref="char:EOLhyphen"/>ly obtained. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Of the third ſort
+<pb n="50" facs="tcp:173396:32"/>are many humane <hi>arts</hi> and <hi>ſci<g ref="char:EOLhyphen"/>ences,</hi> as <hi>Geometry, Arithmeticke,</hi> and the like; and whether the multiplicity of our over inqui<g ref="char:EOLhyphen"/>ſitive <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, even in <hi>divine</hi> affaires, may not hither bee re<g ref="char:EOLhyphen"/>ferred, I referre it to your cen<g ref="char:EOLhyphen"/>ſure. Sure I am that the <hi>revea<g ref="char:EOLhyphen"/>led</hi> will of GOD is the rule of our Actions, and to be igno<g ref="char:EOLhyphen"/>rant of this, argues either great contempt or negligence, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ap<g ref="char:EOLhyphen"/>prove it not, I altogether con<g ref="char:EOLhyphen"/>demne it; but for thoſe ſecrets which GOD hath reſerved to himſelfe, they are too <hi>wonder<g ref="char:EOLhyphen"/>full</hi> for our <hi>knowledge,</hi> wee can<g ref="char:EOLhyphen"/>not comprehend them; and we may not make our ſelves his ſe<g ref="char:EOLhyphen"/>cretaries, nor preſſe too irreve<g ref="char:EOLhyphen"/>rently into his Chamber of pre<g ref="char:EOLhyphen"/>ſence; ſufficient be it for us that
+<pb n="51" facs="tcp:173396:32"/>wee are of his <hi>Court,</hi> though we be not of his <hi>Counſell.</hi> 
+               <note place="margin">Aug.</note> 
+               <hi>Ignorare velle quae ſummus magiſter docere noluit erudita eſt inſcitia.</hi> Wee may not ſoare too high with the weake wings of our ſlender contemplation, leaſt with <hi>Ica<g ref="char:EOLhyphen"/>rus,</hi> our wings by over neare approaching to his glory bee melted, and wee precipitated into a <hi>Sea</hi> of <hi>miſeries</hi> if not into the <hi>gulfe</hi> of <hi>fire and brimſtone.</hi>
+            </p>
+            <p>To ſumme up all in a word, and that in the phraſe of a lear<g ref="char:EOLhyphen"/>ned Father:
+<note place="margin">Proſper. de Provid.</note> 
+               <hi>Quae Deus occulta eſſe voluit, non ſunt ſcrutanda, quae autem manifeſta fecit non ſunt negligenda; ne in illis illicitè curioſi, &amp; in his damnabiliter in veniamur ingrati.</hi> The things which GOD would haue ſecret, are not by us to bee ſearched into, neither
+<pb n="52" facs="tcp:173396:33"/>are thoſe which he hath mani<g ref="char:EOLhyphen"/>feſted unto us, to be neglected; that wee bee not found un<g ref="char:EOLhyphen"/>lawfully curious in the one, or damnably ungratefull in the other.</p>
+            <p>Our Saviours phraſe is, <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if yee know theſe things:</hi> and <hi>theſe</hi> (as you may perceive by the precedents) are but our duties of Charity and Humility, Leſſons eaſie enough: Why doe wee then affect the knowledge of things ſo Infinitely above our reach? let us rather deſcend into our owne boſomes, and endeavour to know our ſelves: <hi>de Coelo de<g ref="char:EOLhyphen"/>ſcendit</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note place="margin">Iuvenal.</note> Let us ſearch out every man the deceitfull <hi>wiles of his owne heart:</hi>] this is moſt truly <hi>divine knowledge;</hi> and
+<pb n="53" facs="tcp:173396:33"/>wee ſhall finde difficulty enough in this, yea ſo much, that wee may ſay of it, as <hi>Caeſar</hi> once did of the <hi>Scythi<g ref="char:EOLhyphen"/>ans,</hi>
+               <note place="margin">Caeſaris Comment.</note> 
+               <hi>Difficilius eſt invenire quàm interficere;</hi> 'tis harder to <hi>know</hi> our ſelves and <hi>finde out</hi> the ma<g ref="char:EOLhyphen"/>nifold <hi>Meanders</hi> of our exorbi<g ref="char:EOLhyphen"/>tant affections, then to <hi>over<g ref="char:EOLhyphen"/>come</hi> them. Let this then bee our ſtudy, this our endea<g ref="char:EOLhyphen"/>vour; For whereas other ſpe<g ref="char:EOLhyphen"/>culations onely <hi>informe</hi> our <hi>Intellects,</hi> and teach us to <hi>know,</hi> this <hi>reformes our Wills</hi> and teacheth us to <hi>doe;</hi> thoſe may perhaps <hi>pleaſe</hi> our <hi>fancy,</hi> but this <hi>directs</hi> the <hi>courſe</hi> of our <hi>actions,</hi> and is the onely <hi>rule</hi> of our <hi>pra<g ref="char:EOLhyphen"/>ctiſe;</hi> Which is my ſecond part, the <hi>employment</hi> of our
+<pb n="54" facs="tcp:173396:34"/>
+               <hi>Will,</hi> and followes now to be conſidered.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="55" facs="tcp:173396:34"/>
+            <head>THE SECOND PART, Reſerved for, and <hi>pro<g ref="char:EOLhyphen"/>ſecuted in a ſecond Sermon.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>IOHN 13.17.</hi>
+                  </bibl>
+                  <p>
+                     <seg rend="decorInit">M</seg>A<gap reason="foreign" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Happy are ye if yee doe them.</p>
+               </q>
+            </epigraph>
+            <p>The place (if <hi>Muſculus</hi> bee in the right) is chiefly objected againſt them,
+<note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Part. <hi>Muſculus in loc.</hi>
+               </note> who are much converſant in <hi>hearing</hi> and <hi>underſtanding the word,</hi> but little in <hi>obſerving;</hi> in<g ref="char:EOLhyphen"/>cluding both a <hi>poſitive</hi> and <hi>ne<g ref="char:EOLhyphen"/>gative</hi>
+               <pb n="56" facs="tcp:173396:35"/>propoſition, that as thoſe who know and doe are un<g ref="char:EOLhyphen"/>ſpeakeably <hi>happy,</hi> ſo are thoſe who know and do not, beyond expreſſion <hi>miſerable:</hi> The ground whereof is the abſolute neceſſity of <hi>practice</hi> to Salvati<g ref="char:EOLhyphen"/>on, and as great inſufficiencie of Knowledge without it: to<g ref="char:EOLhyphen"/>gether with the neceſſity of joyning each to other in it's due meaſure and proportion.</p>
+            <p>For the <hi>neceſsity</hi> of our <hi>pra<g ref="char:EOLhyphen"/>ctiſe, Nature</hi> it ſelfe reades us a viſible Lecture, and points out this way unto us. Every Creature (we ſee) indeavours to reduce it's operative <hi>power</hi> into <hi>act,</hi> and to performe thoſe <hi>actions,</hi> which Nature (it's be<g ref="char:EOLhyphen"/>nigne parent) hath conferred: The <hi>Fire</hi> is alwaies propenſe
+<pb n="57" facs="tcp:173396:35"/>to <hi>heate,</hi> the <hi>Sunne</hi> to <hi>illuminate,</hi> the <hi>Earth</hi> to <hi>fructifie,</hi> and the <hi>Soule</hi> of man to <hi>thinke</hi> or <hi>medi<g ref="char:EOLhyphen"/>tate</hi> on ſome one of it's various objects: Thus are they alwaies buſied in the end and ſcope of their Creation, convincing man their temporall governour of Idleneſſe and folly in the fruitleſſe expence of his time.</p>
+            <p>But were <hi>Nature</hi> ſilent, <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> (our infallible rule and di<g ref="char:EOLhyphen"/>rectory) is as <hi>copious</hi> for this as <hi>authenticke:</hi> Pleaſe you peruſe the <hi>fourth and foure ſubſequent Chapters of Deuteronomie,</hi>
+               <note place="margin">Deut. 4. &amp;c.</note> you ſhall finde them repleniſh't with nothing but precepts and ex<g ref="char:EOLhyphen"/>hortations to <hi>doe the will of the LORD,</hi> to <hi>obſerve his Lawes,</hi> to <hi>keepe his ſtatutes, ordinances and Commandements, &amp;c.</hi> Yea ſo
+<pb n="58" facs="tcp:173396:36"/>often are theſe Injunctions in<g ref="char:EOLhyphen"/>culcated, as if this leſſon were never throughly learn'd, till re<g ref="char:EOLhyphen"/>peated in the obedience of their actions.</p>
+            <p>If you aske the LORD with the <hi>Pſalmiſt, who ſhall dwell in his Tabernacle or rest on his holy hill,</hi> you ſhall receive this An<g ref="char:EOLhyphen"/>ſwer;
+<note place="margin">Pſal. 15.20</note> 
+               <hi>the man that walketh up<g ref="char:EOLhyphen"/>rightly and doth righteouſneſſe, Pſal.</hi> 15.2.</p>
+            <p>If you aske our Saviour, who ſhall enter into the kingdome of Heaven, hee'l anſwer you, <hi>Not every one that ſaith unto him LORD LORD, but he that doth the will of his Father which is in heaven,</hi>
+               <note place="margin">Mat. 7.21.</note> 
+               <hi>Matth.</hi> 7.21. Aske him againe with the young man, how he may gaine eternall life,
+<note place="margin">Mat. 19.17.</note> he bids you <hi>keepe the Commande<g ref="char:EOLhyphen"/>ments,
+<pb n="59" facs="tcp:173396:36"/>Matth.</hi> 19.17. Inquire of him yet againe, who are <hi>bleſſed,</hi> he tells you,
+<note place="margin">Luk. 11.28.</note> 
+               <hi>thoſe that heare the Word of GOD and keepe it, Luk.</hi> 11.28.</p>
+            <p>If any doubt of the poſſibili<g ref="char:EOLhyphen"/>ty of keeping the commande<g ref="char:EOLhyphen"/>ments,
+<note place="margin">Dub.</note> for that <hi>in many things we offend all (as Saint Iames) we are all gone out of the way,</hi>
+               <note place="margin">Iam. 3.2.</note> 
+               <hi>we are altogether become abominable,</hi>
+               <note place="margin">Pſal. 14.3. Pro. 24.16.</note> (as the <hi>Kingly Prophet.</hi>) And the <hi>Iust fall ſeaven times a day</hi> (as the <hi>wiſe King</hi>) I confeſſe that in the exact <hi>rigor of Iustice,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> or <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, none is able (as our Adverſaries of <hi>Rome</hi> would faine have it) fully to obſerve them, yet in a <hi>moderate</hi> ſenſe, <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they may bee <hi>truly</hi> though but <hi>imperfectly</hi> kept. For there is a threefold keeping of
+<pb n="60" facs="tcp:173396:37"/>the Commandements. 1. <hi>True</hi> and <hi>perfect</hi> thus no man (CHRIST IESVS onely ex<g ref="char:EOLhyphen"/>cepted) is able to obſerve them. 2. <hi>Neither true nor per<g ref="char:EOLhyphen"/>fect:</hi> thus <hi>Hypocrites ſeeme</hi> to keepe them, but <hi>doe</hi> nothing leſſe. 3. Laſtly, <hi>true but imper<g ref="char:EOLhyphen"/>fect,</hi> thus true beleevers may and muſt keepe them: in this ſenſe <hi>Zacharias</hi> and <hi>Elizabeth walked in all the Commandements and Ordinances of GOD blame<g ref="char:EOLhyphen"/>leſſe;</hi>
+               <note place="margin">Luk. 1.6.</note> though not <hi>ſine Culpâ,</hi> yet <hi>ſine querela,</hi> (as doth alſo every elect Childe of GOD,) <hi>willingly, uprightly, faithfully, and constant<g ref="char:EOLhyphen"/>ly,</hi> and ſo after a ſort <hi>perfectly</hi> too, by a perfection of <hi>parts,</hi> though not of <hi>degrees.</hi> But I re<g ref="char:EOLhyphen"/>turne to the path, from whence I have a while ſtrayed.</p>
+            <pb n="61" facs="tcp:173396:37"/>
+            <p>Aske the grand Doctor of the Gentiles (once for all) who are juſtified, hee'l informe you, <hi>not the hearers, but the doers of the Law, Rom.</hi> 2.13.
+<note place="margin">Rom. <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> I might be infi<g ref="char:EOLhyphen"/>nite in this ſubject: You have the ſame doctrine often repea<g ref="char:EOLhyphen"/>ted by the ſame Apoſtle almoſt in every Epiſtle of his, ſecon<g ref="char:EOLhyphen"/>ded by his Fellow-Apoſtles, <hi>Iames, Peter,</hi> and <hi>Iohn,</hi> and prea<g ref="char:EOLhyphen"/>ched by an Angell from hea<g ref="char:EOLhyphen"/>ven, in the <hi>Apocalyps.</hi>
+               <note place="margin">Apoc. 22.</note> But I may not be tedious in a matter ſo unqueſtionable. This is the <hi>Epitome</hi> as well of GOD's <hi>Word</hi> as <hi>man's duty:</hi> ſcarſe ſhall you reade any part of Scripture, where it is not either <hi>injoyned</hi> by precept, <hi>confirmed</hi> by pro<g ref="char:EOLhyphen"/>phecy, or <hi>commended</hi> by exam<g ref="char:EOLhyphen"/>ple; neither ſhould there bee
+<pb n="62" facs="tcp:173396:38"/>any particle of our lives incon<g ref="char:EOLhyphen"/>formable to it by obedience.</p>
+            <p>What <hi>Seneca</hi> ſaid of his Phi<g ref="char:EOLhyphen"/>loſophy, is more truly verified of Religion:
+<note place="margin">
+                  <hi>Sen. Epiſt.</hi> 15. <hi>&amp;</hi> 20.</note> 
+               <hi>Philoſophia</hi> (ſaith he) <hi>non eſt populare arti ficium, nec oſtentationi paratum, non in verbis ſed in rebus est, nec in hoc adhibetur ut aliqua oblectatione conſumatur dies, vel ut dematur otio nauſea, ſed animum format &amp; fabricat, vitam diſponit, actiones regit, &amp;c.</hi> So neither is Religi<g ref="char:EOLhyphen"/>on ordained for a Subject of our diſcourſe, a remedy for Idleneſſe, or an imployment ra<g ref="char:EOLhyphen"/>ther of recreation then labour, as too many in theſe looſe times make it: No, it muſt be the <hi>rule</hi> of our <hi>actions,</hi> the <hi>Cyno<g ref="char:EOLhyphen"/>ſure</hi> of our <hi>Converſation,</hi> and the <hi>Steere</hi> of the whole <hi>Courſe of our
+<pb n="63" facs="tcp:173396:38"/>Pilgrimage.</hi>
+               <note place="margin">So the vul<g ref="char:EOLhyphen"/>gar tra<g ref="char:cmbAbbrStroke">̄</g>ſlati<g ref="char:EOLhyphen"/>on reades it.</note> 
+               <hi>Vita hominis militia ſuper terram,</hi> ſaies holy <hi>Iob, Iob</hi> 7.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. the life of man is a warfare upon earth: this is the trueſt <hi>Embleme</hi> of our <hi>Chriſtian profeſ<g ref="char:EOLhyphen"/>ſion:</hi> which the Apoſtle moſt divinely amplifies (in the 6. <hi>of the Epheſians.</hi>) preſcribing a compleat forme both for our <hi>Armour</hi> and <hi>Combat;</hi>
+               <note place="margin">Epheſ. 6. ver 14.15, 16, 17.</note> Put on (ſaith he) <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the whole armor of GOD, the Gir<g ref="char:EOLhyphen"/>dle of Truth, the Breaſt-plate of Righteouſneſſe, the Shield of Faith, the Helmet of Salvation, &amp;c.</hi> Nei<g ref="char:EOLhyphen"/>ther, in this warre, may any of us be idle ſpectators: the pow<g ref="char:EOLhyphen"/>er and vigilancie of our grand enemy (being no leſſe then <hi>the Prince of the Aier,</hi>
+               <note place="margin">Epheſ. 2.2.1. Pet. 5.8.</note> and as a <hi>roa<g ref="char:EOLhyphen"/>ring Lion, which walkes about con<g ref="char:EOLhyphen"/>tinually ſeeking whom hee may de<g ref="char:EOLhyphen"/>voure)</hi>
+               <pb n="64" facs="tcp:173396:39"/>requires our exacteſt care and greateſt diligence to withſtand him: 'Tis not ſufficie<g ref="char:cmbAbbrStroke">̄</g>t, only to <hi>ſift</hi> out his wiles &amp; <hi>know</hi> his ſtratagems, we muſt alſo be<g ref="char:EOLhyphen"/>ſtirre our ſelves to <hi>countermine</hi> him and by our indefatigable induſtry, ſtrive to give him the repulſe and overthrow. The life of a Chriſtian (then) muſt be <hi>militant</hi> and <hi>practicall,</hi> and by how much the more hee be<g ref="char:EOLhyphen"/>ſtirres himſelfe, ſo much the nearer is he to his <hi>triumphant</hi> recompence: <hi>Merces non datur niſi operantibus:</hi> Hee may not expect his <hi>Harvest</hi> without the Labour of <hi>Sowing</hi> and <hi>Reaping,</hi> 'tis the frequent Metaphor of the Schooles in their owne termes, he muſt be, <hi>meſſor in viâ,</hi> before <hi>Comprehenſor in patriâ,
+<pb n="65" facs="tcp:173396:39"/>operative</hi> before <hi>rewarded,</hi> &amp; <hi>do<g ref="char:EOLhyphen"/>ing</hi> before he can be <hi>happy: If ye know theſe things, happy are yee if yee do them.</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Epictetus.</note> the <hi>practiſe</hi> of wholeſome pre<g ref="char:EOLhyphen"/>cepts (ſaies the <hi>Stoick</hi>) is the firſt and eſpeciall part of <hi>Philoſo<g ref="char:EOLhyphen"/>phy</hi> (of <hi>divinity,</hi> ſay we.) Neither is he a fit auditor of the former (ſaies the great <hi>Peripatetick</hi>) who is <hi>only</hi> an auditor, who by reaſon of his Inexperience, or violence of <hi>Paſsion,</hi> is wholly unfit for, or diverted from <hi>action:</hi>
+               <note place="margin">
+                  <hi>Ariſt.</hi> 1. <hi>Eth. Cap.</hi> 3.</note> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Wel may theſe <hi>Heathens</hi> riſe up in judgement againſt us, who from the glimmering light of nature, or the opinion of morall hone<g ref="char:EOLhyphen"/>ſty, gave <hi>precepts</hi> for the <hi>doing,</hi> yea and <hi>performed</hi> more &amp; bet<g ref="char:EOLhyphen"/>ter actions for ſubſtance then
+<pb n="66" facs="tcp:173396:40"/>
+               <hi>Christians</hi> from the Light of divine truth, or the aſſured confidence of an eternall re<g ref="char:EOLhyphen"/>ward. Good GOD, how doe we thwart our <hi>profeſsion</hi> by the obliquity of our <hi>actions, appea<g ref="char:EOLhyphen"/>ring</hi> outwardly as faire as <hi>Hele<g ref="char:EOLhyphen"/>na,</hi> but <hi>are</hi> within as deform'd as <hi>Hecuba,</hi> like a <hi>Mountibankes Gal<g ref="char:EOLhyphen"/>lipot,</hi> which containing poyſon within, hath a title importing a preſervative.</p>
+            <p>May not that be objected a<g ref="char:EOLhyphen"/>gainſt us, which was once a<g ref="char:EOLhyphen"/>gainſt the <hi>Athenians, Athenien<g ref="char:EOLhyphen"/>ſes ſciunt quae recta ſunt, ſed facere nolunt:</hi> We know the truth, and only truth of our faith and pro<g ref="char:EOLhyphen"/>feſſion, we are many of us more then covetous of knowledge, inſatiable hearers, and as <hi>fre<g ref="char:EOLhyphen"/>quent</hi> in the diſcourſe hereof,
+<pb n="67" facs="tcp:173396:40"/>as <hi>ſeeming zealous</hi> for the de<g ref="char:EOLhyphen"/>fence, and yet how doe our actions (like the hand of a falſe diall) point a contrary way? as if our <hi>tongues,</hi> which were given us to expreſſe the abundance of our heart, had beene made of purpoſe to <hi>con<g ref="char:EOLhyphen"/>tradict</hi> and <hi>belie</hi> it; or, that our whole duty conſiſted in <hi>hea<g ref="char:EOLhyphen"/>ring, knowing,</hi> and <hi>talking</hi> of Re<g ref="char:EOLhyphen"/>ligion, but it concerned not our profeſſion to <hi>practiſe</hi> it. What an incongruity &amp; folly is it (as <hi>Lactantius</hi> ſpeakes) <hi>non in pectore ſed in labijs habere bonita<g ref="char:EOLhyphen"/>tem?</hi> to reſerve goodneſſe on<g ref="char:EOLhyphen"/>ly in our lips, not in our hearts or affections? how little this will profit us,
+<note place="margin">1. Cor. 13. ver. 1, 2.</note> let the <hi>Apoſtle</hi> ſpeake, 1. <hi>Cor.</hi> 13. <hi>Though Iſpeake with the tongues of men and angels,
+<pb n="68" facs="tcp:173396:41"/>and have not Charity, I am become as ſounding braſſe, &amp;c. And though I have the gift of prophecie, and understand all mysteries, and all knowledge, and though I have all faith, ſo that I could remove mountaines, and have not charity I am nothing;</hi> nothing in my ſelfe, and <hi>worſe</hi> then nothing in the eyes of the Almighty.</p>
+            <p>Be not deceived then, GOD <hi>is not mocked with,</hi> where hee hath beſtowed a <hi>Talent</hi> of <hi>know<g ref="char:EOLhyphen"/>ledge,</hi> he requires it with advan<g ref="char:EOLhyphen"/>tage in our <hi>obedience,</hi> where he hath conferred a large mea<g ref="char:EOLhyphen"/>ſure of <hi>underſtanding,</hi> he expects the like meaſure of <hi>practiſe: The ſervant that knoweth his ma<g ref="char:EOLhyphen"/>ſters will, and doth it not ſhall bee beaten with many ſtripes,</hi> ſaith our Saviour,
+<note place="margin">Luk. 12.47.</note> 
+               <hi>Luk.</hi> 12.47. <hi>Pluribus
+<pb n="69" facs="tcp:173396:41"/>&amp; gravioribus ſupplicijs punio<g ref="char:EOLhyphen"/>tur, quia gravius &amp; iniquius peccavit:</hi> as Saint <hi>Chryſoſtome, Hom.</hi> 27. <hi>in Mat.</hi>
+               <note place="margin">
+                  <hi>Chryſoſt. Hom.</hi> 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Math.</hi>
+               </note> Seconded by Saint <hi>Auſtin, Stella, Calvin, Marlorat,</hi> and the whole Cur<g ref="char:EOLhyphen"/>rent of ancient and moderne Expoſitors. Hee that ſinnes againſt his owne <hi>knowledge,</hi> ſinnes with a witneſſe. For, as the Apoſtle, <hi>Scienti bonum facere &amp; non facienti, illi peccatum est, Iames</hi> 4. <hi>and the laſt.</hi>
+               <note place="margin">Iam. 4. vlt.</note> 
+               <hi>To him that knowes to doe good and doth it not to him it is ſinne: ſinne, and that</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſinne with an high hand. Pray wee then with the <hi>Pſalmist,</hi> that the LORD would keepe us from <hi>preſumptuous ſinnes,</hi> from <hi>premeditated, malici<g ref="char:EOLhyphen"/>ous, and knowne</hi> offences; other<g ref="char:EOLhyphen"/>wiſe our <hi>knowledge</hi> will tend but
+<pb n="70" facs="tcp:173396:42"/>to our greater confuſion, and make us ſo much the more inexcuſable, as wee have beene defective in the equiva<g ref="char:EOLhyphen"/>lence of our <hi>practiſe:</hi> For, <hi>better were it not to have knowne the way of righteouſneſſe,</hi>
+               <note place="margin">2. Pet. 2.21.</note> 
+               <hi>then after wee have knowne it, to turne from the Commandement delivered unto us,</hi> 2. <hi>Peter</hi> 2.21.</p>
+            <p>But I truſt wee have not ſo learned CHRIST: 'tis a <hi>praecognitum</hi> with us, that that <hi>Theologie</hi> which wee profeſſe, and that <hi>knowledge</hi> wee have out of the Word of GOD, is rank't among <hi>pra<g ref="char:EOLhyphen"/>cticall</hi> diſciplines,
+<note place="margin">
+                  <hi>Aquin. Part.</hi> 1. <hi>Quaeſt.</hi> 1. <hi>Art.</hi> 4.</note> whatſoever the <hi>Angelicall Doctor</hi> object a<g ref="char:EOLhyphen"/>gainſt it, in his <hi>firſt Quaeſt. and</hi> 4. <hi>Artic.</hi> But well may his
+<pb n="71" facs="tcp:173396:42"/>
+               <hi>Theologie</hi> bee more <hi>theoricall</hi> then <hi>practick,</hi> being ſtuff't with ſo many no leſſe <hi>elaborate and Metaphyſicall,</hi> then <hi>ſublimated</hi> and <hi>ſuperfluous</hi> ſpeculations: Yet doe his more moderate ſucceſſors, partly joyne iſſue with us, and acknowledge it a <hi>Sapience: Sapientia verò dicit Intellectum cum operatione,</hi> as <hi>Gerſon, Iacobus de Valent.</hi> and others of the Schooles.</p>
+            <p>If M. <hi>Calvin</hi> may be heard among them, his judgement is (and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuppoſe it little inferiour to theirs) that this <hi>Science</hi> is not <hi>Linguae doctrina ſed vitae,</hi>
+               <note place="margin">
+                  <hi>Calvin In<g ref="char:EOLhyphen"/>ſtit. lib.</hi> 3. <hi>Cap.</hi> 6. <hi>vid. etiam D. Pareum Com. in Iac.</hi> 1.22.</note> 
+               <hi>nec in<g ref="char:EOLhyphen"/>tellectu memoria<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> duntaxat ap<g ref="char:EOLhyphen"/>prehenditur (ut reliquae diſcipli<g ref="char:EOLhyphen"/>nae) ſed tum demum recipitur, vbi animam totam poſsidet, fidem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> receptaculum invenit in intimo
+<pb n="72" facs="tcp:173396:43"/>cordis affectu. Inſtit. lib.</hi> 3. <hi>cap.</hi> 6. This knowledge is ſeated in the <hi>Will</hi> and <hi>Affections,</hi> filling the <hi>Heart</hi> and <hi>Minde</hi> with a de<g ref="char:EOLhyphen"/>ſire not ſo much of <hi>Contempla<g ref="char:EOLhyphen"/>tion</hi> as <hi>Action:</hi> Yea this <hi>know<g ref="char:EOLhyphen"/>ledge</hi> it ſelfe, in the HOLY GHOST'S phraſe, is <hi>Action:</hi> For as CHRIST is ſaid,
+<note place="margin">2. Cor. 5.21.</note> by the Apoſtle, to know no ſinne, becauſe hee did it not,
+<note place="margin">Aug. in Pſal.</note> 
+               <hi>ſic &amp; justitiam ille verè dicendus eſt noſſe qui facit;</hi> ſo is hee alſo ſaid by the Pſalmiſt to <hi>know the way of the LORD,</hi>
+               <note place="margin">Pſal. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> who <hi>walkes</hi> conſtantly in it, by a conſcionable keeping of his Commandements.</p>
+            <p>It is obſerved,
+<note place="margin">Ezek. 3. Apoc. 10.</note> that when GOD had delivered thoſe <hi>mysticall bookes</hi> to the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezechiel</hi> and Saint <hi>Iohn,</hi>
+               <pb n="73" facs="tcp:173396:43"/>wherein his Word was contai<g ref="char:EOLhyphen"/>ned, it was commanded them, not that they ſhould <hi>reade</hi> or <hi>learne</hi> them onely, but that they ſhould <hi>eate</hi> and <hi>devoure</hi> them: intimating that this <hi>Word</hi> is ſo to bee <hi>taken</hi> and <hi>digeſted</hi> of us in our <hi>practiſe:</hi> that (as our <hi>daily bread</hi>) it may ſtrengthen our <hi>hearts,</hi> and (as our ordinary <hi>foode</hi>) maintaine our <hi>life</hi> of <hi>grace,</hi> and preſerve us for that of <hi>glo<g ref="char:EOLhyphen"/>ry.</hi> If this bee not the end of our knowledge, what a miſerable contradiction muſt there needs bee in our con<g ref="char:EOLhyphen"/>verſation? Wee ſhould ſeeme herein to reſemble C. <hi>Grac<g ref="char:EOLhyphen"/>chus,</hi> in the <hi>Orator,</hi>
+               <note place="margin">
+                  <hi>Cic.</hi> 3. <hi>Tuſcul.</hi>
+               </note> 
+               <hi>qui cum largitiones maximas feciſſet, &amp; effudiſſet, aerarium, verbis defen<g ref="char:EOLhyphen"/>debat
+<pb n="74" facs="tcp:173396:44"/>aerarium;</hi> when hee had rub'd and exhauſted the trea<g ref="char:EOLhyphen"/>ſury, made an Oration in it's defence: Lamentable hypo<g ref="char:EOLhyphen"/>criſie; ſo much condemned in a <hi>Heathen,</hi> how odious and deteſtable in a <hi>Chriſtian?</hi> As if a profeſt <hi>Grammarian</hi> ſhould ſpeake nothing but <hi>Barba<g ref="char:EOLhyphen"/>riſmes,</hi> or a noted <hi>Logician</hi> bee altogether unable to <hi>di<g ref="char:EOLhyphen"/>ſpute,</hi> or compoſe an <hi>argu<g ref="char:EOLhyphen"/>ment.</hi> Let mee expoſtulate with the ſame Orator, <hi>Quid verba audiam, cum facta non vi<g ref="char:EOLhyphen"/>deam?</hi> If I heare onely <hi>words</hi> and ſee no <hi>deedes,</hi> if thy <hi>hot profeſsion</hi> bee ſeconded but with <hi>cold actions,</hi> thou art at moſt but a <hi>verbalist,</hi> and <hi>ſu<g ref="char:EOLhyphen"/>perficiall counterfeit.</hi>
+               <note place="margin">Simil.</note> Thou haſt a <hi>Sword,</hi> the <hi>Sword</hi> of
+<pb n="75" facs="tcp:173396:44"/>the <hi>Spirit,</hi> but ſo ruſted for want of Vſe, and kept ſo cloſe in the cankred <hi>ſcabberd,</hi> of thy polluted heart, that thou canſt neither draw nor uſe it, for thy owne ſafeguard, or pro<g ref="char:EOLhyphen"/>fligating of <hi>Sathan,</hi> thy no leſſe dangerous then malicious ene<g ref="char:EOLhyphen"/>mie. Thou haſt a <hi>Perfume,</hi> but ſo cloſe kept in the <hi>pocket,</hi> of thy <hi>Corruption,</hi> that neither thy ſelfe nor any other is bene<g ref="char:EOLhyphen"/>fitted by the fragrance. <hi>Inſtru<g ref="char:EOLhyphen"/>menti tota vis in uſu conſistit,</hi> as <hi>Logicians:</hi> Thy <hi>Faith</hi> and <hi>Knowledge</hi> are uſefull <hi>Inſtru<g ref="char:EOLhyphen"/>ments</hi> of thy Chriſtian profeſſi<g ref="char:EOLhyphen"/>on, frame with them the works of Charitie, Repentance, and Mortification; or I ſhall think thy <hi>faith</hi> as dead in <hi>thee,</hi> as <hi>thou</hi> in thy <hi>ſinnes</hi> and <hi>treſpaſſes.</hi>
+            </p>
+            <pb n="76" facs="tcp:173396:45"/>
+            <p>In a word, <hi>Pietatis laus om<g ref="char:EOLhyphen"/>nis in actione conſiſtit, Doing</hi> is queſtionleſſe the <hi>Badge</hi> of a true profeſſor, the <hi>Practiſe of Piety</hi> is his proper cogniſance; as knowing that hee ſhall not bee judged at the laſt day, ſo much by his <hi>knowledge</hi> as <hi>actions,</hi> when it ſhall not bee demanded of him, <hi>quantum ſciverit,</hi> but, <hi>qualiter fecerit,</hi> not how <hi>learned</hi> hee hath beene, but how <hi>good.</hi> This egges him on in a conſtant reſolution of keeping his LORDS Commandements: and if hee deſire knowledge, it is that hee may referre it on<g ref="char:EOLhyphen"/>ly to this end or <hi>terminus,</hi> that hee may reduce it to <hi>practiſe:</hi> For which end he of<g ref="char:EOLhyphen"/>ten prayes with that religious
+<pb n="77" facs="tcp:173396:45"/>Father,
+<note place="margin">
+                  <hi>Aug. Enar. in Pſal.</hi> 119.</note> 
+               <hi>Praebe mihi Domine lucem &amp; intelligentiam, ut intel<g ref="char:EOLhyphen"/>ligere valeam mandata tua, intel<g ref="char:EOLhyphen"/>ligendo ſervare, ſervando in aeternum vivere.</hi> Hee's not ſo <hi>curious</hi> in his <hi>Theory,</hi> as <hi>carefull</hi> in his <hi>practiſe,</hi> which hee knowes to bee the <hi>better part</hi> of his profeſſion. Yet doth hee not any whit neg<g ref="char:EOLhyphen"/>lect his proficience in <hi>know<g ref="char:EOLhyphen"/>ledge</hi> as well as <hi>practiſe;</hi> as knowing that <hi>this</hi> without <hi>that</hi> is either <hi>blinde or franticke devotion,</hi> and <hi>that</hi> without <hi>this bare</hi> and <hi>fruitleſſe ſpecula<g ref="char:EOLhyphen"/>tion:</hi>
+               <note place="margin">Simil.</note> 
+               <hi>this</hi> being as a <hi>Shippe</hi> without a <hi>Pilot,</hi> in danger eve<g ref="char:EOLhyphen"/>ry moment, to bee <hi>gravel'd</hi> in the ſands of ſuperſtition, or <hi>ſplit</hi> on the rocke of <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>that,</hi> as an expert
+<pb n="78" facs="tcp:173396:46"/>
+               <hi>Nauticke,</hi> but in ſuch a <hi>torne</hi> veſſell, that hee dares not commit himſelfe to the <hi>Sea,</hi> or make <hi>uſe</hi> of his faculty: <hi>This,</hi> as an <hi>untamed Horſe</hi> without a <hi>Rider, that</hi> as a faire <hi>Steed,</hi> but <hi>unſerviceable</hi> for <hi>warre</hi> or <hi>travell.</hi> Each there<g ref="char:EOLhyphen"/>fore muſt bee link't to other, and become ſuch inſeparable mates, that nothing may di<g ref="char:EOLhyphen"/>vorce them, but the diſſoluti<g ref="char:EOLhyphen"/>on of the <hi>ſubject.</hi>
+            </p>
+            <q>
+               <l>— Alterius ſic</l>
+               <l>Alterapoſcit opem res,
+<note place="margin">Horat. in Art. Poet.</note> &amp; con<g ref="char:EOLhyphen"/>jurat amicè.</l>
+            </q>
+            <p>What <hi>Poets, Mariners,</hi> and <hi>Naturalists</hi> have obſerved, of thoſe two <hi>Meteors, Caſtor</hi> and <hi>Pollux,</hi> is no leſſe uſefull for us <hi>all;</hi> if <hi>either</hi> appeare <hi>ſingle</hi>
+               <pb n="79" facs="tcp:173396:46"/>they preſage a <hi>tempeſt</hi> or <hi>ſhip<g ref="char:EOLhyphen"/>wracke,</hi> but it <hi>both</hi> together, <hi>ſerenity</hi> and <hi>ſafety.</hi> So if <hi>both</hi> theſe concurre in the life of a Chriſtian, they are an infalli<g ref="char:EOLhyphen"/>ble Symptome of his eternall <hi>happineſſe,</hi> but if <hi>ſever'd,</hi> they foreſhew his <hi>ruine</hi> and <hi>deſtructi<g ref="char:EOLhyphen"/>on. Hippocrates</hi> twinnes were never ſo nearely united either in birth, naturall diſpoſition or affection, as theſe two ought to bee to make up a per<g ref="char:EOLhyphen"/>fect <hi>man of GOD, wiſe unto ſalvation.</hi>
+            </p>
+            <p>Yet, I know not how it comes to paſſe, but ſo it is (and 'tis a truth no leſſe la<g ref="char:EOLhyphen"/>mentable then ſtrange) that theſe two, which ought to bee ſo individually united, are ſuch <hi>Strangers</hi> each to
+<pb n="80" facs="tcp:173396:47"/>other, and they which ſhould bee ſuch intire brethren, ſtand at ſuch diſtance that they proove like <hi>Eteocles</hi> and <hi>Poly<g ref="char:EOLhyphen"/>nices,</hi> living and dying in per<g ref="char:EOLhyphen"/>petuall enmity: as if they had ſhaken hands, and tooke a perpetuall farewell at the Fall of <hi>Adam,</hi> vowing never after<g ref="char:EOLhyphen"/>wards to ſee one anothers face. For, ſee wee not the moſt un<g ref="char:EOLhyphen"/>learned (or at fartheſt, not very expert in any kinde of lear<g ref="char:EOLhyphen"/>ning) moſt imployed in the practiſe of <hi>morall good duties,</hi> and (as they ſuppoſe) the true worſhip of GOD, whereas the greateſt Clarkes are ſo fill'd up with with aëry ſpeculations, that they have little or no roome left for practicall obedi<g ref="char:EOLhyphen"/>ence. This made Saint <hi>Auſtin</hi>
+               <pb n="81" facs="tcp:173396:47"/>exclaime againſt himſelfe and his Complices,
+<note place="margin">
+                  <hi>Aug. lib.</hi> 8. <hi>Confeſſ. Cap.</hi> 8.</note> a little before his Converſion, with a <hi>Surgunt indocti &amp; caelum rapiunt &amp; nos cum doctrinis noſtris, ecce vbi vo<g ref="char:EOLhyphen"/>lutamur carne &amp; ſanguine:</hi> The unlearned preſſe into Heaven by violence, but wee (for all our learning) continue in the filth of our ſinnes, and wallow in the bloud of our iniquity. I would this <hi>gravamen</hi> were not too appoſite for <hi>theſe</hi> times, when <hi>Schoole</hi> nicities, <hi>verball</hi> difficulties and perplexed <hi>Lo<g ref="char:EOLhyphen"/>gomachia',</hi>
+               <note place="margin">
+                  <gap reason="foreign" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> thruſt out all ſerious meditation of <hi>practicall</hi> duties: <hi>Dum in verbis pugnd eſt,</hi>
+               <note place="margin">Hilar. ad Constant.</note> 
+               <hi>dum in no vitatibus quaeſtio, dum in ambi<g ref="char:EOLhyphen"/>guis occaſio litis, dum in conſenſu difficult as eſt, jam nemo Chriſtieſt,</hi> was the complaint of another
+<pb n="82" facs="tcp:173396:48"/>Father, fitted (I feare) of pur<g ref="char:EOLhyphen"/>poſe for us of theſe times; who are more <hi>nominall</hi> then <hi>reall, ſuperficiall</hi> then <hi>Solid</hi> Chriſtians, and with <hi>Aeſop's</hi> Curre, catching at the <hi>ſha<g ref="char:EOLhyphen"/>dow,</hi> wee loſe the <hi>ſubstance</hi> of Religion. 'Twas the ob<g ref="char:EOLhyphen"/>ſervation of his late learned <hi>Majestie,</hi>
+               <note place="margin">
+                  <hi>K.</hi> Iames <hi>in Aphor.</hi>
+               </note> (and beyond ex<g ref="char:EOLhyphen"/>ception true) that the <hi>Di<g ref="char:EOLhyphen"/>vell,</hi> where hee cannot have the <hi>whole,</hi> ſeekes ever to have <hi>one part</hi> of the ſoule, which hee may come eaſyeſt by; in <hi>Proteſtants</hi> the <hi>Will,</hi> in <hi>Papiſts</hi> the <hi>Vnderſtanding, they</hi> being ignorantly <hi>practi<g ref="char:EOLhyphen"/>call, wee</hi> ſciently <hi>idle</hi> or <hi>per<g ref="char:EOLhyphen"/>verſe, neither</hi> perfect Chriſti<g ref="char:EOLhyphen"/>ans, while we want an eſſentiall part of our profeſſion.</p>
+            <pb n="83" facs="tcp:173396:48"/>
+            <p>The like may we obſerve in the <hi>infant</hi> age of the world: After the true worſhip of GOD (by <hi>Caine's</hi> wicked ſeede long ſuppreſſed) was re<g ref="char:EOLhyphen"/>ſtored by <hi>Seth</hi> and <hi>Enoſh, Gen.</hi>
+               <note place="margin">Gen. 4. vlt.</note> 4. <hi>vlt.</hi> Corruption of <hi>life</hi> crept in, and brought a <hi>Deluge</hi> on the Primitive world, <hi>Chap.</hi> 6. So, after the truth of <hi>Chriſtia<g ref="char:EOLhyphen"/>nitie</hi> was by lawes eſtabliſhed under Chriſtian <hi>Emperours,</hi> open perſecution ceaſing, <hi>De<g ref="char:EOLhyphen"/>pravation</hi> of <hi>manners</hi> crept in, and brought a <hi>Deluge</hi> of miſe<g ref="char:EOLhyphen"/>ries on the Viſible Church: as the <hi>Centuryes</hi> may more fully informe you.</p>
+            <p>And <hi>now,</hi> even <hi>now,</hi> (to our griefe and ſhame bee it ſpoken) when the light of the Goſpell ſhines at the
+<pb n="84" facs="tcp:173396:49"/>higheſt in it's full glory and ſplendor; how great a <hi>De<g ref="char:EOLhyphen"/>fection</hi> is there in the Courſe of our lives? as if wee endea<g ref="char:EOLhyphen"/>voured of purpoſe to talke in <hi>darkeneſſe</hi> in the midſt of <hi>light,</hi> and <hi>affected</hi> to <hi>grope</hi> at <hi>noone-day,</hi> when wee rather might and ought to <hi>runne</hi> the way of his Commandements. So truly may that Complaint of <hi>Tertullian,</hi> bee taken up by us;
+<note place="margin">Iuel Apol. ex Tertul.</note> 
+               <hi>O miſeros nos qui Chriſtiani dicimur hoc tempore, Gentes agi<g ref="char:EOLhyphen"/>mus ſub nomine Christi!</hi> Wee profeſſe <hi>Christianity,</hi> but live like <hi>Heathens,</hi> wee would <hi>ſeeme Saints</hi> but our actions <hi>beſeeme Divels.</hi>
+            </p>
+            <p>'Tis not unworthy your no<g ref="char:EOLhyphen"/>tice, to obſerve the <hi>triple plea</hi> of the moſt part of men
+<pb n="85" facs="tcp:173396:49"/>among us, and thoſe of diffe<g ref="char:EOLhyphen"/>rent profeſſions: the meere <hi>formall and ignorant</hi> Proteſtant, pretends his good <hi>meaning,</hi> the <hi>ſtricter</hi> and <hi>preciſer</hi> his good <hi>Faith,</hi> and the <hi>Papist</hi> his good <hi>workes:</hi> But till all theſe concurre, they are not ſufficient <hi>ſeverally</hi> to make a good <hi>Christian.</hi> A <hi>true</hi> and <hi>lively faith</hi> is that on which the moſt of us build the aſſu<g ref="char:EOLhyphen"/>rance of our ſalvation, but if this bee as <hi>true and lively</hi> as ſuppoſed, it cannot bee but <hi>operative,</hi> good workes and actions proceeding as neceſſa<g ref="char:EOLhyphen"/>rily from it, as <hi>heate</hi> from the <hi>fire, light</hi> from the <hi>Sunne,</hi> or wholeſome <hi>fruit</hi> from a <hi>good tree:</hi> and ſo much doth the very <hi>Etymologie</hi> of the
+<pb n="86" facs="tcp:173396:50"/>word import,
+<q>Fiat quod dictum est, dicitur inde Fides.</q>
+            </p>
+            <p>True it is wee put nei<g ref="char:EOLhyphen"/>ther <hi>merit</hi> of <hi>Condignitie</hi> nor <hi>Congruitie</hi> in good workes, nor make them the <hi>Cauſe</hi> either of <hi>Iustification</hi> or <hi>Sal<g ref="char:EOLhyphen"/>vation,</hi> as we ſhall anone ma<g ref="char:EOLhyphen"/>nifeſt; yet doe wee main<g ref="char:EOLhyphen"/>taine (contrary to the no leſſe <hi>impudent,</hi> then <hi>unjuſt</hi> calumniation of our adverſa<g ref="char:EOLhyphen"/>ries) their <hi>Neceſsity</hi> both to <hi>Sanctification,</hi> and eternall <hi>happineſſe,</hi> (ſo the ſubject bee <hi>capable of,</hi> and <hi>diſpoſed for</hi> the performance:) and af<g ref="char:EOLhyphen"/>firme, that though <hi>by</hi> good workes <hi>cauſative</hi> no man is or ſhall bee, yet <hi>without</hi> good workes <hi>conſequutivè</hi> no
+<pb n="87" facs="tcp:173396:50"/>man <hi>can</hi> bee juſtified. Wee willingly imbrace the whole<g ref="char:EOLhyphen"/>ſome adviſe of their prime<g ref="char:EOLhyphen"/>ſuppoſed founder, in his 2. Epiſtle, Chap. 1. verſe 10.
+<note place="margin">2. Pet. 1.10.</note> 
+               <hi>to make our Calling and Election ſure,</hi> and that <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by good workes: So farre are we from teaching the people a licencious courſe of life, or re<g ref="char:EOLhyphen"/>jecting <hi>workes</hi> of <hi>Piety</hi> and <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> that wee make it the ſole teſtimony of the <hi>livelie-hood</hi> of our faith, and the <hi>aſſurance</hi> of our <hi>calling,</hi> and eternall <hi>inheri<g ref="char:EOLhyphen"/>tance.</hi> If they require a more particular view of thoſe rea<g ref="char:EOLhyphen"/>ſons which we<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alleage for the neceſſity of workes, I referre them to any of our <hi>Neotericks,</hi> where they may both <hi>ſee</hi> and <hi>bluſh</hi> at their as <hi>falſe</hi> as <hi>malici<g ref="char:EOLhyphen"/>ous</hi>
+               <pb n="88" facs="tcp:173396:51"/>ſcandall. Briefely, (that I may at once ſtoppe all their clamorous mouthes) wee af<g ref="char:EOLhyphen"/>firme the <hi>neceſsity</hi> and injoyne the <hi>performance</hi> of good works, both in reſpect of GOD, our <hi>ſelves,</hi> and <hi>others.</hi>
+            </p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> In reſpect of GOD; that wee may <hi>glorifie him</hi> as our <hi>Father,</hi>
+               <note place="margin">Matth. 5.16.</note> 
+               <hi>obey</hi> his <hi>will</hi> as our <hi>King,</hi>
+               <note place="margin">1. Theſ. 4.3.</note> and teſtifie our <hi>gratitude</hi> to him,
+<note place="margin">Rom. 12.1.</note> as our <hi>Creator, Redee<g ref="char:EOLhyphen"/>mer</hi> and <hi>Sanctifier.</hi>
+            </p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> In reſpect of our <hi>Selves,</hi> that wee may diſcerne the <hi>truth</hi> and <hi>livelie-hood</hi> of our <hi>Faith;</hi>
+               <note place="margin">Mat. 7.18. Iam. 2.17.</note> as alſo, that it may bee <hi>exerciſed,</hi>
+               <note place="margin">Rom. 8.13.</note> 
+               <hi>nouriſhed</hi> and <hi>corro<g ref="char:EOLhyphen"/>borated</hi> thereby; that wee may <hi>aſcertaine</hi> our ſelves of our <hi>Election,</hi>
+               <note place="margin">2 Pet. 1.10.</note> and <hi>remiſsion of ſinnes;</hi> that wee may avoide <hi>puniſh<g ref="char:EOLhyphen"/>ments</hi>
+               <pb n="89" facs="tcp:173396:51"/>both <hi>temporall</hi> and <hi>eter<g ref="char:EOLhyphen"/>nall,</hi>
+               <note place="margin">Mat. 7.19.</note>
+               <note place="margin">1. Tim. 4.8.</note> and obtaine thoſe <hi>re<g ref="char:EOLhyphen"/>wards</hi> of our obedience, both <hi>corporall</hi> and <hi>ſpirituall,</hi> which are annext to good workes, by GOD's <hi>free</hi> and <hi>gracious pro<g ref="char:EOLhyphen"/>miſe.</hi>
+            </p>
+            <p n="3">3. In reſpect of <hi>others,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> that wee may <hi>edifie</hi> them by our <hi>pious example,</hi>
+               <note place="margin">2. Cor. 4.15.</note> that wee may <hi>gaine unbeleevers</hi> from their <hi>infidelity,</hi>
+               <note place="margin">1. Pet. 2.12.</note> and laſtly that we may avoide all <hi>ſcandall,</hi>
+               <note place="margin">Rom. 2.24.</note> to which our profeſſion <hi>is</hi> or <hi>may bee</hi> liable. I might inſtance in <hi>all,</hi> and ſpend my ſelfe in the proſecu<g ref="char:EOLhyphen"/>tion of <hi>each</hi> of theſe parti<g ref="char:EOLhyphen"/>culars, if either neceſſity re<g ref="char:EOLhyphen"/>quired, or time would per<g ref="char:EOLhyphen"/>mit, but I muſt bee compen<g ref="char:EOLhyphen"/>dious. <hi>Theſe</hi> are the <hi>true ends</hi> and <hi>genuine Cauſes</hi> of our
+<pb n="90" facs="tcp:173396:52"/>good workes, which although they produce nor ſuch effects or ſo frequently as could bee wiſht, yet doe they leave behinde them more teſti<g ref="char:EOLhyphen"/>monies of <hi>Charitie</hi> and <hi>pious munificence,</hi> then <hi>their</hi> doting fancies of <hi>merit</hi> and <hi>ſatisfacti<g ref="char:EOLhyphen"/>on:</hi> Witneſſe our <hi>Hoſpitalls, Colledges, Libraries, Schooles, &amp;c.</hi> newly <hi>built</hi> or <hi>augmen<g ref="char:EOLhyphen"/>ted:</hi> which for the <hi>ſhort</hi> time of <hi>reformation,</hi> and the <hi>ſhorter</hi> meanes of well-devoted <hi>Be<g ref="char:EOLhyphen"/>nefactors,</hi> eſpecially thoſe of the <hi>Clergie,</hi> are more then <hi>they</hi> can exhibit in a farre larger ſpace: So that now (thankes bee to the firſt mo<g ref="char:EOLhyphen"/>ver of their faithfull hearts) our <hi>Catalogue</hi> of charitable <hi>Worthies</hi> is daily increaſed,
+<pb n="91" facs="tcp:173396:52"/>and the Preachers <hi>memory</hi> extended in the rehear<g ref="char:EOLhyphen"/>ſall.</p>
+            <p>But leave wee them to the glorious reward of their magnificent workes; Let <hi>our</hi> care bee that wee abuſe not their <hi>well-intended bounty,</hi> by our <hi>ill-applying behaviour;</hi> by <hi>bribery</hi> or <hi>perjury</hi> in our <hi>entrance,</hi> by <hi>voluptuous lux<g ref="char:EOLhyphen"/>ury</hi> in our <hi>continuance,</hi> by diſ<g ref="char:EOLhyphen"/>dainefull <hi>Ingratitude,</hi> or haugh<g ref="char:EOLhyphen"/>ty <hi>ambition</hi> at our <hi>departure:</hi> but remember that precept of our LORD, <hi>Deuteronomie</hi> 6.11, 12.
+<note place="margin">Dent. 6.11, 12.</note> 
+               <hi>Now that wee injoy houſes full of good things which wee filled not, wells which wee digged not, vineyards and Olive-trees which wee planted not, now that wee have eaten
+<pb n="92" facs="tcp:173396:53"/>and are full, beware wee, leaſt wee forget the LORD our GOD,</hi> who hath dealt thus graciouſly with us.</p>
+            <p>I affect not to bee an <hi>Ibis</hi> in defiling mine owne <hi>neaſt,</hi> or a <hi>Cham</hi> in revealing the <hi>ſhame</hi> of ſo <hi>indulgent a pa<g ref="char:EOLhyphen"/>rent,</hi> yet give mee leave to add a well-wiſhing <hi>Caution</hi> or two in a word and I have done.</p>
+            <p>And firſt let mee adviſe <hi>thoſe</hi> who have the <hi>overſight</hi> or <hi>education</hi> of our <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> thoſe <hi>young</hi> and <hi>tender plants,</hi> the <hi>Sucklings</hi> of our <hi>Academy,</hi> that they neither <hi>ſeduce</hi> them by their <hi>owne example,</hi> nor <hi>ſuffer</hi> them to bee <hi>miſled</hi> by <hi>pernicious Complices;</hi> that they may not ſucke <hi>poyſon</hi> in
+<pb n="93" facs="tcp:173396:53"/>ſteed of <hi>milke</hi> from their <hi>mothers breaſt,</hi> and purchaſe a <hi>little ſmattering of knowledge</hi> at ſo deare a rate as a <hi>totall de<g ref="char:EOLhyphen"/>pravation of manners:</hi> and ſo, bee driven to <hi>ſcandalize,</hi> if not <hi>revile</hi> her after their departure. Let not that bee ſaid of our <hi>Helicon,</hi> which was once of the <hi>Pope's</hi> Court, <hi>Aula tua bonos recipit non fa<g ref="char:EOLhyphen"/>cit, mali ibi proficiunt, boni deficiunt;</hi> but let our diligence in their nurture make us <hi>heare well</hi> abroad, and redeeme that ſcandall and part of our loſt <hi>esteeme,</hi> which now flies in the tongues of the heedleſſe multitude.</p>
+            <p>Next, for <hi>you</hi> of <hi>riper yeares;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> that you would not <hi>Nero-like,</hi> teare out the bowells of ſo
+<pb n="94" facs="tcp:173396:54"/>gracious a <hi>mother,</hi> by <hi>faction</hi> or <hi>diviſion,</hi> but conſider, <hi>How good and joyfull a thing it is for us brethren to dwell to<g ref="char:EOLhyphen"/>gether in Vnity.</hi>
+               <note place="margin">Pſal. 133.1.</note> You know how neare a tye of <hi>Brother<g ref="char:EOLhyphen"/>bood</hi> wee have, ſuper-added to that <hi>common</hi> bond of Chri<g ref="char:EOLhyphen"/>ſtianity; wee have not one<g ref="char:EOLhyphen"/>ly <hi>one GOD</hi> for our <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and <hi>one Church</hi> for our <hi>Mother,</hi> but <hi>one Academy</hi> al<g ref="char:EOLhyphen"/>ſo, and <hi>many</hi> of us one <hi>Col<g ref="char:EOLhyphen"/>ledge</hi> for our <hi>Nurſe.</hi> Let us not then bee ſo factiouſly contentious, nor let there be ſuch ſtrife betweene us, for as <hi>Abraham</hi> ſaid to <hi>Lot, Wee are Brethren.</hi> You know the diſtinction of Philoſophers betweene <hi>Action</hi> and <hi>Faction,</hi> 
+               <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this being
+<pb n="95" facs="tcp:173396:54"/>the imployment of an <hi>art</hi> that of a <hi>prudence;</hi> ſo may this <hi>Faction</hi> of ours well vent it ſelfe in <hi>artificiall ſcoffes,</hi> or ſome ingeniouſly wicked <hi>Libell,</hi> but ſhewes in us little <hi>prudence</hi> or <hi>diſcretion:</hi> Let us rather be converſant in <hi>prudent</hi> and re<g ref="char:EOLhyphen"/>ligious <hi>actions,</hi> and if any difference ariſe among us, for <hi>Office, Dignity,</hi> or <hi>Prehe<g ref="char:EOLhyphen"/>minence,</hi> take <hi>Ajax</hi> his triall in the Poet:
+<note place="margin">
+                  <hi>Ovid.</hi> 13. <hi>Metam.</hi>
+               </note> 
+               <hi>-Spectemur agen<g ref="char:EOLhyphen"/>do:</hi> or that deciſion for the <hi>golden Apple</hi> betweene the three <hi>goddeſſes: —detur dig<g ref="char:EOLhyphen"/>niori;</hi> let the <hi>worth</hi> of our <hi>actions</hi> challenge the worth of our <hi>esteeme,</hi> and the dignity of our <hi>indowments</hi> merit the dignity of our <hi>place.</hi>
+            </p>
+            <p>Laſtly, for thoſe among
+<pb n="96" facs="tcp:173396:55"/>us of the <hi>Ministerie;</hi> that wee would informe the people as well by our <hi>Acti<g ref="char:EOLhyphen"/>ons</hi> as <hi>Elocution,</hi> our <hi>Exam<g ref="char:EOLhyphen"/>ple</hi> as our <hi>precept,</hi> and preach to them <hi>vivâ voce,</hi> which (as one wittily) is, <hi>vitâ &amp; vo<g ref="char:EOLhyphen"/>ce;</hi> leaſt what wee build with with one hand, we pull downe with another, and verifie that Romaniſt's invective, <hi>Quod dictis comprobant factis impro<g ref="char:EOLhyphen"/>bant, quod dictis monent ut facia<g ref="char:EOLhyphen"/>mus, factis monent ne faciamus.</hi> True it is, wee are to live by <hi>precept</hi> not <hi>example,</hi> yet is this a more <hi>compendious</hi> way to finiſh a <hi>Minister's</hi> worke: for, as the divine Philoſopher, <hi>Longum iter per praecepta,</hi>
+               <note place="margin">Seneca.</note> 
+               <hi>bre<g ref="char:EOLhyphen"/>ve &amp; efficax per exempla.</hi> Our <hi>examples</hi> are uſually more
+<pb n="97" facs="tcp:173396:55"/>powerfull then our <hi>precepts;</hi> whether it bee that the <hi>Eye</hi> workes more on the minde, and ſtirres it up ſooner to action, then the <hi>Eare,</hi> accor<g ref="char:EOLhyphen"/>ding to the Poet,
+<q>
+                  <l>Segnius irritant animum dimiſ<g ref="char:EOLhyphen"/>ſa per aurem</l>
+                  <l>Quam quae ſunt oculis ſubjecta fidelibus, &amp;c.
+<note place="margin">Hor. in Art. Poet.</note>
+                  </l>
+               </q>
+            </p>
+            <p>Or, that wee have the <hi>actions</hi> of men <hi>alwaies</hi> be<g ref="char:EOLhyphen"/>fore our eyes, but their <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> onely <hi>one howre</hi> in a <hi>weeke,</hi> or it may bee in a <hi>Moneth,</hi> or a <hi>Quarter,</hi> or a <hi>Yeare,</hi> or perhaps more ſel<g ref="char:EOLhyphen"/>dome, ſo well are many of us affected to the duties of our Calling.</p>
+            <p>But beware we (B.B.) that
+<pb n="98" facs="tcp:173396:56"/>our <hi>Salt</hi> bee not <hi>unſavourie,</hi>
+               <note place="margin">Matth. 5.</note> and caſt out on the doung<g ref="char:EOLhyphen"/>hill, that our <hi>light</hi> bee not extinguiſhed and <hi>ourſelves</hi> ex<g ref="char:EOLhyphen"/>cluded into utter darkeneſſe: leaſt like <hi>Cookes,</hi> wee bee im<g ref="char:EOLhyphen"/>ployed onely in <hi>handling, dreſ<g ref="char:EOLhyphen"/>ſing,</hi> and <hi>preparing</hi> this foode of our ſoules, but <hi>taste</hi> not the leaſt morſell of it our ſelves; or like thoſe builders of <hi>Noah's Arke,</hi> who made an Arke for the ſafety of others, but periſhed them<g ref="char:EOLhyphen"/>ſelves in the waters; ſo wee, when wee <hi>have preached to o<g ref="char:EOLhyphen"/>thers our ſelves become Caſt-awaies.</hi>
+               <note place="margin">1. Cor. 9.27.</note> Let us (then) place in our hearts, as <hi>Aaron</hi> on his breaſt the <hi>Vrim</hi> and <hi>Thummim, revelatum</hi> and <hi>perfectum,</hi> joyne <hi>integrity of life</hi> with <hi>ſolidity of
+<pb n="99" facs="tcp:173396:56"/>knowledge:</hi> Let us indeavour to bee as ſo many burning and ſhining Lampes, <hi>burning</hi> with the fire of Zeale in our ſelves, and <hi>ſhining</hi> with the light of wholeſome inſtructi<g ref="char:EOLhyphen"/>ons to others: let the ſplen<g ref="char:EOLhyphen"/>dor of our lives ſhine in the faces of the world, and <hi>dazle</hi> the eyes of them, whom it may not <hi>guide.</hi> Then ſhall wee with authority <hi>ſpeake</hi> what wee <hi>doe,</hi> when wee <hi>doe</hi> what wee <hi>ſpeake;</hi>
+               <note place="margin">Dan. 12.3.</note> then ſhall wee one day <hi>ſhine as the ſtarres in the firmament</hi> if wee have heere ſhined in this inferior orbe amongſt our brethren, and by <hi>our</hi> righteouſneſſe <hi>con<g ref="char:EOLhyphen"/>verted many to righteouſneſſe:</hi> Thus when wee <hi>doe</hi> what wee <hi>teach,</hi> and <hi>practiſe</hi> what wee
+<pb n="100" facs="tcp:173396:57"/>
+               <hi>knowe, then</hi> and <hi>then onely</hi> ſhall wee bee <hi>happy;</hi> which is my laſt particle and followes in a word to bee conſidered, <hi>If yee know theſe things, happy are yee if yee doe them:</hi> 
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>happy are yee.</hi>
+            </p>
+            <p>To omit the manifold Scho<g ref="char:EOLhyphen"/>laſticall diſtinctions of this <hi>Happineſſe</hi> or <hi>Beatitude:</hi>
+               <note place="margin">The third Part. <hi>Gabr. Biel, Lect.</hi> 66. <hi>Occam, part.</hi> 2. <hi>Dialog.</hi>
+               </note> 
+               <hi>Biell</hi> and <hi>Occham</hi> have thus abrid<g ref="char:EOLhyphen"/>ged them: <hi>Felicity</hi> (ſay they) is either <hi>temporall</hi> and <hi>ſeeming,</hi> conſiſting onely in worldly proſperity, or elſe <hi>ſpirituall, true</hi> and <hi>reall: this</hi> againe is either <hi>viae</hi> or <hi>patriae,</hi> of our <hi>way</hi> or <hi>country;</hi> the former being an <hi>operation</hi> or perfect <hi>diſpoſition</hi> fitting us for the later; the later againe is either of the <hi>Intellect,</hi> or <hi>Will,</hi> the firſt is
+<pb n="101" facs="tcp:173396:57"/>the <hi>intellectuall viſion</hi> or <hi>con<g ref="char:EOLhyphen"/>templation</hi> of the <hi>Almighty,</hi> the <hi>ſecond</hi> is <hi>that</hi> which fills the <hi>Capacity</hi> of the <hi>Will,</hi> and <hi>excludes</hi> all <hi>deſire</hi> of any far<g ref="char:EOLhyphen"/>ther <hi>perfection, joy,</hi> or <hi>de<g ref="char:EOLhyphen"/>light:</hi> Either of theſe (the <hi>firſt</hi> onely excepted) may in a different manner, bee un<g ref="char:EOLhyphen"/>derſtood in the words of my Text: So <hi>happy</hi> are <hi>they</hi> that <hi>doe</hi> the Wil of GOD, that they are here <hi>heires ap<g ref="char:EOLhyphen"/>parant</hi> to the <hi>kingdome</hi> of <hi>hea<g ref="char:EOLhyphen"/>ven,</hi> and ſhall heereafter bee <hi>invested,</hi> and put in <hi>actuall fruition</hi> of it; <hi>heere</hi> they are filled with <hi>grace,</hi> there crow<g ref="char:EOLhyphen"/>ned with <hi>glory.</hi> Bleſſed <hi>Re<g ref="char:EOLhyphen"/>ward,</hi> for ſuch <hi>ſmall</hi> paines, Wonderfull <hi>recompence</hi> for ſuch momentary ſervice!
+<pb n="102" facs="tcp:173396:58"/>But what ſaid I, <hi>Reward,</hi> and <hi>Recompence?</hi>
+               <note place="margin">Ob.</note> Here may our adverſaries of <hi>Rome</hi> take occa<g ref="char:EOLhyphen"/>ſion to inſult, and proclaime their doctrine of <hi>merits,</hi> as if this <hi>happineſſe</hi> were theirs by the rule of <hi>commutative Iuſtice,</hi> and that they might <hi>challenge</hi> GOD of <hi>injuſtice</hi> if hee with<g ref="char:EOLhyphen"/>held it: and ſo much is the <hi>Cardinall</hi> bold to affirme, <hi>lib.</hi> 5. <hi>de Iuſtificat.</hi>
+               <note place="margin">Reſp.</note> 
+               <hi>Cap.</hi> 1. But let mee tell them, that there is, <hi>merces gratuita</hi> as well as <hi>de<g ref="char:EOLhyphen"/>bita,</hi> a <hi>reward</hi> of <hi>free grace</hi> and <hi>bounty,</hi> as of <hi>due debt</hi> or <hi>de<g ref="char:EOLhyphen"/>ſert:</hi>
+               <note place="margin">Simil.</note> As an indulgent <hi>father</hi> may give his <hi>Childe</hi> a great ſumme of <hi>mony</hi> or large <hi>re<g ref="char:EOLhyphen"/>venewes,</hi> as a <hi>reward</hi> for a pleaſing <hi>letter</hi> or well-penned <hi>Epiſtle,</hi> which in commutative
+<pb n="103" facs="tcp:173396:58"/>
+               <hi>Iuſtice</hi> deſerve not the <hi>thou<g ref="char:EOLhyphen"/>ſandth</hi> part of his largeſſe: the application is ſo facile, that I may not ſpend time in the rehearſall. The <hi>neceſsity</hi> and <hi>benefit</hi> of good workes I <hi>acknowledge,</hi> and you have be<g ref="char:EOLhyphen"/>fore <hi>heard</hi> it, but I deny the <hi>ſufficiencie</hi> of their <hi>merit:</hi> pleaſe you heare the Reaſons in a word, and I conclude.</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> Their <hi>imperfection</hi> both of <hi>parts</hi> and <hi>degrees</hi> deny them the priviledge of <hi>deſert:</hi> For the <hi>imperfection of parts,</hi> how much <hi>good</hi> injoyned by GOD's law is <hi>omitted,</hi> how much <hi>evill</hi> prohibited is <hi>committed,</hi> even by the moſt <hi>ſanctified</hi> and regenerate, (and conſe<g ref="char:EOLhyphen"/>quently how inſufficient for <hi>merit</hi>) the Scripture is as <hi>co<g ref="char:EOLhyphen"/>pious</hi>
+               <pb n="104" facs="tcp:173396:59"/>as <hi>evident:</hi> peruſe (if you pleaſe) <hi>Iam.</hi> 2.10. &amp; <hi>Chap.</hi> 3.2. <hi>Rom</hi> 7.23. <hi>Deut.</hi> 27. <hi>vlt.</hi> with many other places, which I forbeare ſo much as to name that I may not treſ<g ref="char:EOLhyphen"/>paſſe on your patience: that they want many <hi>degrees</hi> of perfection is no leſſe evident, for the <hi>best</hi> workes of the <hi>best</hi> and holieſt men are as un<g ref="char:EOLhyphen"/>cleane as a <hi>menstruous Cloth</hi> or polluted rag, as it is, <hi>Iſay</hi> 64.6.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> Our good workes are <hi>due debt</hi> to the Almighty, and therefore not <hi>meritorious;</hi> the <hi>neglect</hi> of them may caſt us in<g ref="char:EOLhyphen"/>to <hi>hell,</hi> but the <hi>performance</hi> cannot challenge <hi>heaven,</hi> in as much as wee give him but part of his owne and
+<pb n="105" facs="tcp:173396:59"/>when wee have done all that is commanded us, wee may ſay (as our <hi>Saviour</hi> hath in<g ref="char:EOLhyphen"/>formed us, <hi>Luke</hi> 17.10) wee are <hi>unprofitable ſervants,</hi> and have done onely what wee <hi>ought;</hi> happy wee, if ſo much.</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Our good workes are not our <hi>owne,</hi> and therefore can <hi>merit</hi> nothing for us: for <hi>GOD worketh in us both the will and the deed, Phil.</hi> 2.13. neither have wee any thing <hi>which wee have not received,</hi> 1. <hi>Cor.</hi> 4.7. and if the LORD vouchſafe to conferre any re<g ref="char:EOLhyphen"/>ward on us for them, 'tis for his owne <hi>gift's</hi> ſake, more then our <hi>merit:</hi>
+               <note place="margin">
+                  <hi>August. de verb. Apoſt. Serm.</hi> 15.</note> 
+               <hi>Non meritis no<g ref="char:EOLhyphen"/>ſtris retribuit, ſed dona ſua coro<g ref="char:EOLhyphen"/>nat,</hi> as Saint <hi>Auſtin.</hi>
+            </p>
+            <pb n="106" facs="tcp:173396:60"/>
+            <p n="4">4. <milestone type="tcpmilestone" unit="unspecified" n="4"/> If theſe workes were <hi>meritorious,</hi> the <hi>worke</hi> and <hi>reward</hi> ſhould have ſome <hi>equality</hi> of <hi>proportion,</hi> but, <hi>inter finitum &amp; infinitum nulla eſt proportio,</hi> as Philoſophers tell us: What equality then can there bee, betweene our <hi>poore, defective, maimed</hi> workes, and that Crowne of infinite glory?</p>
+            <p>Laſtly, <milestone type="tcpmilestone" unit="unspecified" n="5"/> wee are <hi>Iustified</hi> (and conſequently paſt all <hi>merit</hi>) before the acceſſion of <hi>workes. GOD'S grace</hi> cauſeth whatſoever <hi>merit</hi> is in us, but our <hi>merit</hi> is neither the cauſe of <hi>grace</hi> nor <hi>glory:</hi> Nor doe our good <hi>workes</hi> otherwiſe availe us, then as hee accepts them in our onely Mediator CHRIST
+<pb n="107" facs="tcp:173396:60"/>IESVS, and that for <hi>his merit and ſatisfaction</hi> imputed to <hi>us</hi> by <hi>faith,</hi> and his continuall <hi>interceſsion</hi> for us at the right hand of his Father. In a word, they are no <hi>antecedent cauſe,</hi> but <hi>conſequent Condi<g ref="char:EOLhyphen"/>tion</hi> of our <hi>Iuſtification</hi> and <hi>Salvation; non praecedunt juſtificandum, ſed ſubſequun<g ref="char:EOLhyphen"/>tur justificatum,</hi> in Saint <hi>Au<g ref="char:EOLhyphen"/>ſtin's</hi> phraſe, and in Saint <hi>Ber<g ref="char:EOLhyphen"/>nard's,</hi> they are <hi>via regni non cauſa regnandi. Thus</hi> and <hi>thus</hi> onely are they prevalent and efficacious to bring us to this <hi>Happineſſe</hi> mentioned in my Text and purchaſe for us the <hi>Kingdome prepa<g ref="char:EOLhyphen"/>red from the beginning of the world.</hi>
+            </p>
+            <p>Should I now enter into a
+<pb n="108" facs="tcp:173396:61"/>ſerious diſcourſe of this <hi>king<g ref="char:EOLhyphen"/>dome</hi> and <hi>happineſſe,</hi> and indea<g ref="char:EOLhyphen"/>vour to deſcribe it in it's pro<g ref="char:EOLhyphen"/>per colours, I ſhould rather diſplay <hi>mine ignorance</hi> then in<g ref="char:EOLhyphen"/>creaſe <hi>your knowledge</hi> in this unſearchable myſtery, and <hi>puzzle mine owne,</hi> rather then <hi>informe your underſtandings.</hi> I might herein wiſely imitate that <hi>Philoſopher,</hi> who after a long and ſerious contempla<g ref="char:EOLhyphen"/>tion of the <hi>nature of GOD,</hi> return'd anſwer, that hee could tell what hee was <hi>not,</hi> but what he <hi>was</hi> went beyond his expreſſion or conceipt; So muſt I ingeniouſly confeſſe in the language of the Fa<g ref="char:EOLhyphen"/>ther,
+<note place="margin">Auguſtine.</note> 
+               <hi>Facilius poſſum dicere quid ibi non ſit quàm quid ibi ſit; non eſt ibi mors, non eſt ibi luctus,
+<pb n="109" facs="tcp:173396:61"/>non est ibi laſsitudo, non est infirmi<g ref="char:EOLhyphen"/>tas, non eſt fames, nulla ſitis, nullus aeſtus, &amp;c.</hi> In briefe, there is an abſolute <hi>freedome</hi> from all <hi>evill</hi> both of <hi>Sinne</hi> and <hi>Pu<g ref="char:EOLhyphen"/>niſhment,</hi> and a <hi>full fruition</hi> of all <hi>good</hi> both of <hi>grace</hi> and <hi>glory,</hi> and above <hi>all</hi> of the <hi>chiefeſt good, GOD himſelfe.</hi> For a more particular diſco<g ref="char:EOLhyphen"/>very and information, I re<g ref="char:EOLhyphen"/>ferre the Curious (if any bee) to the <hi>nice Metaphyſicall</hi> ſcru<g ref="char:EOLhyphen"/>ples of the <hi>Schooles;</hi> where they may perhaps ſooner winde themſelves into a perplexed <hi>Labyrinth</hi> of difficulties, then any way ſatisfie their over-da<g ref="char:EOLhyphen"/>ring <hi>curioſity:</hi> But for the more moderate, I ſuppoſe that of the <hi>Apoſtle</hi> will give them rea<g ref="char:EOLhyphen"/>ſonable ſatisfaction: <hi>Neither
+<pb n="110" facs="tcp:173396:62"/>eye hath ſeene, nor eare heard, neither hath it entred into the heart of man, what joyes GOD hath prepared for thoſe that love and feare him,</hi> 1. <hi>Cor.</hi> 2.9. Now ſith <hi>it</hi> cannot enter into <hi>us,</hi> pray wee, that <hi>wee</hi> may en<g ref="char:EOLhyphen"/>ter into <hi>it,</hi> that by continu<g ref="char:EOLhyphen"/>ance in well doing, wee may both <hi>ſeeke and obtaine glory,</hi>
+               <note place="margin">Rom. 2.7.</note> 
+               <hi>and honour, and immortality.</hi> And doe thou ô LORD, vouch<g ref="char:EOLhyphen"/>ſafe to prepare a place for us in thoſe heavenly Manſions, that wee with the <hi>Saints</hi> and <hi>Angels</hi> already there, may ſing perpetuall <hi>Hallelujahs,</hi> and praiſe thy glorious <hi>Majestie</hi> for <hi>all eternity,</hi> and that for the merits of thy dearely beloved Sonne, IESVS CHRIST; to whom with
+<pb n="111" facs="tcp:173396:62"/>
+               <hi>thee</hi> and the bleſſed <hi>Spirit,</hi> be all Praiſe, Power, Majeſty, Dominion and Thankſ<g ref="char:EOLhyphen"/>giving, from this time forth and for evermore <hi>Amen.</hi>
+            </p>
+            <closer>
+               <gap reason="foreign" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:173396:63"/>
+            <head>Errata.</head>
+            <p>Page 10. line 2. for one reade none. and line 17. <hi>ibid. ma.</hi> 1. for 1<hi rend="sup">ma</hi> or <hi>prima.</hi> Pag. 14. l. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. for for reade far.</p>
+            <pb facs="tcp:173396:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
